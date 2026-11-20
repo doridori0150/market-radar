@@ -1,74 +1,76 @@
 {
- "headline": "엔비디아 공백·수출통제·금리 5%에 코스피 8% 급락",
+ "headline": "젠슨 황 충격이 AI 매도로 번져 코스피 한 주 8% 하락",
  "key_points": [
-  "코스피 -8.36%, 나스닥 -5.0%. 금요일 하루에만 코스피 -5.21%로 매도 사이드카가 발동됐다",
-  "미국 AI 반도체가 '꺾임'에서 '침체'로 내려갔고, 국내 메모리는 고점 대비 -56.8%까지 밀렸다",
-  "12/9 FOMC에서 0.25%p 인상이 거의 확실시된다. 그 전 11/25 PCE·11/26 한은 결정이 고비"
+  "코스피는 한 주 동안 7.95% 내린 4869.96입니다. 20일 하루에만 5.21% 떨어져 매도 사이드카가 걸렸습니다",
+  "미국 AI 반도체 테마가 '꺾임'에서 '침체'로 내려갔습니다. 국내 테마 11개 중 10개가 '침체' 단계입니다",
+  "다음 고비는 12/9 FOMC(미국 금리 결정 회의)입니다. 선물시장은 금리 인상 가능성을 99%로 보고 있습니다(11/17 기준)"
  ],
  "flow": {
   "blocks": [
    {
-    "title": "젠슨 황 사임 후폭풍",
-    "point": "황 CEO가 물러난 뒤 첫 거래일(16일) 코스피는 -3.59%, 외국인은 1.38조 원을 팔았다",
-    "body": "젠슨 황이 사생활 논란으로 12일 사임했고, 콜레트 크레스 CFO가 임시 CEO를 맡았다. 엔비디아는 11월 13일까지 6주 연속 하락했다. 반도체 비중이 큰 한국 증시가 가장 크게 흔들렸고, 17일에는 코스피가 9개월 만에 5000선 아래로 내려갔다."
+    "title": "젠슨 황 사임 충격",
+    "point": "엔비디아는 10월 고점 뒤로 시가총액 약 2.7조 달러를 잃었습니다",
+    "body": "젠슨 황 엔비디아 CEO가 개인 스캔들로 물러나고, 콜레트 크레스 재무책임자가 임시 CEO를 맡았습니다. 17일 발표한 3분기 매출은 1,158억 달러로 1년 전보다 103% 늘었습니다. 하지만 이사회가 황의 복귀는 없다고 밝히면서 주가는 다시 밀렸습니다. 실적보다 '누가 회사를 이끄나'라는 불확실성이 더 크게 작용한 한 주였습니다."
    },
    {
-    "title": "수출통제·소송 겹악재",
-    "point": "동남아 AI칩 수출에 정부 승인을 받게 한 규제에 16일 필라델피아 반도체지수가 -5.28% 빠졌다",
-    "body": "미 상무부가 싱가포르·말레이시아·태국 등으로 가는 칩 수출에 승인 절차를 넣었고, 이 규제는 19일 시행됐다. 같은 시기 미국 법원이 삼성전자·SK하이닉스·마이크론의 D램 담합 소송 기각 신청을 받아들이지 않았다. 16일 SK하이닉스는 -7.89%, 삼성전자는 -4.47%로 마감했다."
+    "title": "AI 매도가 시장 전체로",
+    "point": "나스닥은 20일 하루 5.28% 떨어져 올해 오른 폭을 모두 반납했습니다",
+    "body": "16일 미국 상무부가 중국 기업이 해외 데이터센터를 통해 AI 칩을 빌려 쓰는 길을 막는 규칙을 내놨습니다. 19일 상장한 앤트로픽은 첫날 17% 올랐지만 20일 아침에는 9% 넘게 밀렸습니다. 20일 S&P500과 다우는 고점 대비 10% 넘게 빠진 '조정' 구간에 들어갔습니다. 반도체 업종은 2001년 뒤로 가장 나쁜 한 주를 보냈습니다."
    },
    {
-    "title": "호실적도 못 막은 매도",
-    "point": "엔비디아 매출은 1년 전보다 103% 늘었지만, 20일 코스피는 -5.21% 급락했다",
-    "body": "엔비디아는 3분기 매출 1,158억 달러를 냈고, 4분기 매출 전망으로 1,300억 달러를 제시했다. 그런데 19일 앤트로픽 상장(공모액 약 813억 달러)에 돈이 몰렸다. 같은 날 AMD에 공매도(주가 하락에 돈을 거는 투자) 보고서가 나와 AMD가 -7.7% 떨어졌다. 다음 날 한국에서는 삼성전자 -7.01%, SK하이닉스 -5.92%를 기록했다."
+    "title": "삼성·하이닉스 쏠림의 대가",
+    "point": "코스피는 16일 3.59%, 20일 5.21% 떨어져 4800선까지 밀렸습니다",
+    "body": "삼성전자와 SK하이닉스는 코스피 시가총액의 약 47%를 차지합니다. 그래서 두 종목이 흔들리면 지수 전체가 같이 흔들립니다. 16일에는 미국 법원이 D램 담합 소송을 본안 재판으로 넘겼고, SK하이닉스가 7.89% 떨어졌습니다. 18일에는 낸드 현물가격 하락이, 20일에는 미국발 매도가 겹쳤습니다. 20일 삼성전자는 7.01%, SK하이닉스는 5.92% 내렸습니다."
    },
    {
-    "title": "금리 5%와 12월 인상",
-    "point": "미 10년물 금리는 5.05%로 이번 주 0.10%p 내렸지만, 시장은 12월 인상을 거의 100% 본다",
-    "body": "미 10년물 금리는 올해 5% 이상으로 마감한 날이 이미 27일이다. 2008~2025년에는 하루도 없었다. 10월 물가가 예상보다 뜨거워 선물시장은 12/9 FOMC의 0.25%p 인상 확률을 99%로 반영했다(11/17 기준). 금(-5.17%)과 유가(-6.04%)도 함께 내렸다. 유가 하락은 호르무즈 해협 수출이 정상화되면서 공급이 남을 거라는 전망 때문이다."
+    "title": "금리 5% 벽",
+    "point": "미 10년물 금리는 목요일 5.05%였고, 연준의 12월 인상이 기본 시나리오가 됐습니다",
+    "body": "금리가 높으면 미래 이익을 보고 사는 성장주와 AI주의 매력이 줄어듭니다. 금요일에는 주식에서 빠진 돈이 국채로 몰려 10년물 금리가 4.92%까지 내렸습니다. 금도 한 주에 5.17%, 유가는 6.04% 내렸습니다. 주식만 팔린 게 아니라 위험 자산 전반에서 돈이 빠졌다는 뜻입니다."
    },
    {
-    "title": "한중 FTA로 갈린 테마",
-    "point": "한중 FTA 후속협상 타결로 엔터주가 급등했고, 유통·백화점은 한 주간 +10.5%였다",
-    "body": "18일 에스엠 +29.91%, JYP +22.09%가 나왔고, 19일에도 여행·화장품주까지 상한가가 이어졌다. 국내 테마 가운데 이번 주에 오른 것은 유통·백화점뿐이다. 다만 이번 합의는 K팝 공연이나 드라마 방영을 직접 허용하지 않는다. 중국 당국의 실제 승인을 확인해야 한다."
+    "title": "외국인 6일 연속 매도",
+    "point": "외국인은 이번 주 코스피에서 약 4.8조 원을 팔았습니다",
+    "body": "16일 하루에만 외국인 순매도가 1조 3,837억 원이었습니다. 20일에는 외국인과 기관이 함께 2조 원 넘게 팔았고, 개인이 약 1.6조 원을 샀습니다. 외국인 매도가 그칠 때까지 지수가 바닥을 찾기는 어려울 수 있습니다."
    },
    {
-    "title": "외국인 연속 매도",
-    "point": "외국인은 17일 1.45조, 20일 1.27조 원 등 코스피에서 매도를 이어갔다",
-    "body": "19일에도 4,035억 원을 팔아 5거래일 연속 순매도였다. 20일에는 기관까지 함께 팔았고, 개인만 샀다. 반도체 쏠림이 하락기에는 지수를 더 크게 끌어내리는 구조가 그대로 드러났다."
+    "title": "한중 FTA라는 예외",
+    "point": "유통·백화점 테마만 한 주 +10.6%로 거꾸로 올랐습니다",
+    "body": "한중 FTA 서비스·투자 후속협상이 8년 8개월 만에 실질 타결됐습니다. 이 소식에 '한한령(중국의 한류 제한) 해제' 기대가 커져 엔터주와 유통·화장품주가 올랐습니다. 다만 K팝 공연을 다시 허용한다는 내용은 합의문에 들어가지 않았습니다. 실제 이익으로 이어지려면 시간이 걸린다는 신중론도 많습니다."
    }
   ],
-  "opinion": "이번 주에는 악재가 한꺼번에 몰렸다. 엔비디아 리더십 공백, 수출통제, 금리 5%, 대형 상장으로 인한 수급 분산이다. 실적이 좋다는 소식은 이 악재들을 이기지 못했다. 테마 사이클판을 보면 국내 주요 테마 11개 중 10개가 '침체'다. 고점 대비 낙폭은 원전 -65.8%, 전력기기 -67.4%까지 커졌다. 미국 AI 반도체도 이번 주 '침체'로 내려갔다. 주도 섹터가 바뀌었다기보다 AI 주도주 전체가 식는 국면으로 본다.\n\n반대로 실적이 확인된 엔비디아의 수요 숫자와, 일부 증권사의 '수요는 남는다'는 시각은 하락이 수요 붕괴보다 불확실성(CEO·규제·금리) 때문이라는 쪽에 힘을 싣는다. 불확실성이 풀리는 순서는 대략 11/25 PCE, 11/26 한은, 12/9 FOMC·브로드컴 실적이다. 이 일정을 지나기 전까지는 큰 폭의 등락이 이어질 가능성이 높다. 한한령(중국의 한류 제한) 완화로 생긴 소비·엔터 테마는 기대가 먼저 반영된 상태라, 실제 공연 승인이 나오는지가 관건이다.",
+  "opinion": "이번 주는 한 사람의 퇴장이 'AI 투자는 계속될까'라는 의심으로 번진 주였습니다. 엔비디아 실적은 좋았지만 시장은 숫자보다 리더십 공백, 수출 규제, 높은 금리를 더 무겁게 봤습니다. 사이클판을 보면 국내 테마 11개 중 10개가 '침체'입니다. 미국도 빅테크와 바이오만 '상승' 단계를 지키고 있습니다. 주도주가 다른 업종으로 넘어갔다기보다는, 주도주 없이 시장 전체가 식고 있는 모습입니다.\n\n그래도 상대적으로 덜 빠진 곳은 있습니다. 국내 광통신(12주 수익률이 시장보다 +24.5%p)과 로봇(+17.9%p), 바이오(+13.5%p)는 같은 하락장에서 덜 밀렸습니다. 이 버팀이 반등의 시작인지는 12/9 FOMC와 엔비디아 새 CEO 선임을 보고 판단하는 게 안전합니다. 지금은 바닥을 맞히기보다 매도가 멈추는 신호, 즉 외국인 순매수 전환과 금리 안정을 기다릴 구간으로 봅니다.",
   "scenarios": [
    {
-    "if": "11/25 PCE가 예상보다 높고 12/9 FOMC가 인상과 함께 내년 추가 인상을 시사하면",
-    "then": "10년물 금리가 5% 위에 머물며 고평가 성장주와 AI 하드웨어에 추가 부담. 방어주·은행 선호가 커질 수 있음",
+    "if": "12/9 FOMC가 예상대로 금리를 올리고, 10년물 금리가 다시 5% 위에 자리 잡으면",
+    "then": "성장주와 AI 관련주의 가치 재평가가 이어집니다. 상대적으로 버티는 방어 업종으로 돈이 몰릴 수 있습니다",
     "themes": [
      "AI 반도체",
      "메모리·AI 반도체",
      "광통신·네트워크",
-     "빅테크·클라우드"
+     "바이오·헬스케어"
     ]
    },
    {
-    "if": "엔비디아 정식 CEO 선임이나 수출통제 예외 범위가 명확해지면",
-    "then": "고점 대비 -50%대로 빠진 반도체·장비주에 기술적 반등 여지. 다만 외국인 순매수 전환이 함께 확인돼야 함",
+    "if": "엔비디아가 새 CEO를 정하고 SEC·수출 통제 관련 조사가 정리되면",
+    "then": "실적(4분기 매출 가이던스 1,300억 달러)으로 다시 관심이 옮겨갑니다. 고점 대비 57% 빠진 국내 메모리가 먼저 반등할 수 있습니다",
+    "themes": [
+     "AI 반도체",
+     "메모리·AI 반도체",
+     "반도체 장비·후공정"
+    ]
+   },
+   {
+    "if": "외국인 순매도가 다음 주에도 하루 1조 원 규모로 이어지면",
+    "then": "삼성전자·SK하이닉스 비중이 큰 코스피가 미국보다 더 크게 흔들릴 수 있습니다",
     "themes": [
      "메모리·AI 반도체",
-     "반도체 장비·후공정",
-     "AI 반도체"
+     "전력기기",
+     "조선"
     ]
    },
    {
-    "if": "한중 FTA 정식 서명과 중국 내 K팝 공연 승인이 실제로 나오면",
-    "then": "엔터·여행·면세·화장품의 기대 랠리가 실적 기대로 이어질 수 있음. 승인이 늦어지면 과거처럼 되돌림 위험",
-    "themes": [
-     "유통·백화점"
-    ]
-   },
-   {
-    "if": "신세계 11월 매출이 10월(-2.85%)에 이어 전년보다 줄고 소비자심리가 더 꺾이면",
-    "then": "유통·백화점의 이번 주 반등(+10.5%)은 한한령 기대에만 기댄 단기 반등에 그칠 가능성",
+    "if": "한중 FTA 후속 조치로 중국 공연 승인 같은 실제 개방이 확인되면",
+    "then": "기대감에 오른 유통·면세·엔터가 실적 기대로 이어질 수 있습니다. 확인이 늦어지면 오른 만큼 되돌릴 수 있습니다",
     "themes": [
      "유통·백화점"
     ]
@@ -79,24 +81,24 @@
   "KR": [
    {
     "date": "2026-11-20",
-    "title": "검은 금요일, 코스피 5% 급락",
-    "what": "미국 기술주 급락, 앤트로픽 상장 후 차익실현, AMD 공매도 보고서, 대중국 수출통제 우려가 겹쳤다. 장중 매도 사이드카(프로그램 매도 일시 정지)가 발동됐다.",
-    "reaction": "코스피 -5.21%(4,869.96), 코스닥 -5.71%, 삼성전자 -7.01%, SK하이닉스 -5.92%. 외국인 1조2,682억 원 순매도",
+    "title": "'검은 금요일' 코스피 5% 폭락, 양 시장 매도 사이드카",
+    "what": "미국 AI·반도체 매도가 번지면서 반도체 대형주를 중심으로 매물이 쏟아졌습니다. 코스피와 코스닥 모두 매도 사이드카(프로그램 매도 일시 정지)가 발동됐습니다.",
+    "reaction": "코스피 -5.21%(4869.96), 코스닥 -5.71%. 종가 기준 10개월 만의 최저입니다. 외국인 약 1.1조 원, 기관 약 9,500억 원 순매도",
     "themes": [
      "메모리·AI 반도체",
      "반도체 장비·후공정"
     ],
     "impact": "상",
     "sources": [
-     "https://www.seoul.co.kr/news/economy/securities/2026/11/20/20261120500227",
-     "https://www.hankyung.com/article/202611200429i"
+     "https://www.sisajournal-e.com/news/articleView.html?idxno=425214",
+     "https://www.businesskorea.co.kr/news/articleView.html?idxno=281841"
     ]
    },
    {
     "date": "2026-11-16",
-    "title": "젠슨 황 퇴진 충격, 코스피 3.59%↓",
-    "what": "엔비디아 CEO 사임 뒤 첫 거래일에 반도체 대형주가 일제히 급락했다.",
-    "reaction": "코스피 -3.59%(5,100.50), 코스닥 -4.86%. 외국인 1조3,837억 원 순매도",
+    "title": "젠슨 황 퇴진 파장, 코스피 3.59% 급락",
+    "what": "엔비디아 CEO 사임 충격이 주말을 지나 한국 증시에 본격 반영됐습니다.",
+    "reaction": "코스피 -3.59%(5100.50), 코스닥 -4.86%(665.65), 외국인 1조 3,837억 원 순매도",
     "themes": [
      "메모리·AI 반도체",
      "반도체 장비·후공정"
@@ -108,557 +110,451 @@
    },
    {
     "date": "2026-11-16",
-    "title": "D램 담합 소송, 기각 신청 거부 여파",
-    "what": "미국 법원이 14일(현지시간) 삼성전자·SK하이닉스·마이크론의 D램 반독점 집단소송 기각 신청을 받아들이지 않았다. 소송은 본안 절차로 넘어갔다.",
-    "reaction": "SK하이닉스 -7.89%(112만 원), 삼성전자 -4.47%",
+    "title": "미국 법원, D램 담합 소송 기각 신청 받아들이지 않아",
+    "what": "삼성전자·SK하이닉스·마이크론이 낸 D램 반독점 집단소송 기각 신청을 미국 법원이 받아들이지 않았습니다(현지 14일). 이에 따라 본안 재판이 시작됩니다.",
+    "reaction": "SK하이닉스 -7.89%(112만 원)",
     "themes": [
      "메모리·AI 반도체"
     ],
     "impact": "중",
     "sources": [
-     "https://www.fnnews.com/news/202611170601200280",
-     "https://biz.sbs.co.kr/amp/article/20000320364"
+     "https://www.fnnews.com/news/202611170601200280"
     ]
    },
    {
-    "date": "2026-11-17",
-    "title": "코스피 9개월 만에 5000선 붕괴",
-    "what": "젠슨 황 사임 후폭풍이 이어지며 코스피가 5000선 아래로 내려갔다. 10월 말 추문 보도 이후 누적 낙폭은 17%를 넘었다.",
-    "reaction": "코스피 -2.59%, 외국인 1조4,460억 원 순매도",
+    "date": "2026-11-20",
+    "title": "삼성전자 7%·SK하이닉스 6% 동반 급락",
+    "what": "미국 AI주 약세와 반도체 수출 규제 우려로 두 종목에 외국인·기관 매도가 몰렸습니다.",
+    "reaction": "삼성전자 -7.01%(18만 3,100원), SK하이닉스 -5.92%(111만 3,000원)",
     "themes": [
      "메모리·AI 반도체"
     ],
     "impact": "상",
     "sources": [
-     "https://www.viva100.com/article/20261117500078",
+     "https://news.jkn.co.kr/post/1110837",
+     "https://www.sankyungtoday.com/news/articleView.html?idxno=64364"
+    ]
+   },
+   {
+    "date": "2026-11-17",
+    "title": "코스피 4일 연속 하락 출발, 5000선 위협",
+    "what": "황 전 CEO의 복귀가 무산됐다는 소식과 AI 투자 위축 우려로 하락 출발했습니다. 반도체 쏠림이 지수 낙폭을 키웠다는 분석이 나왔습니다.",
+    "reaction": "시초가 5008.09(-1.81%). 스캔들 뒤 20일 만에 코스피 17% 하락",
+    "themes": [
+     "메모리·AI 반도체"
+    ],
+    "impact": "중",
+    "sources": [
+     "https://www.g-enews.com/article/Securities/2026/11/202611170913198654923c501012_1",
      "https://www.ajunews.com/view/20261117162019727"
     ]
    },
    {
-    "date": "2026-11-18",
-    "title": "한중 FTA 후속협상 실질 타결",
-    "what": "한중 정상회담에서 서비스·투자 분야 후속협상 타결을 선언했다. 중국은 영화·게임 최혜국 대우와 공동제작 확대를 약속했다. 다만 K팝 공연 허용은 포함되지 않았다.",
-    "reaction": "에스엠 +29.91%, JYP엔터 +22.09%, 하이브 +15.37%. 19일에는 여행·화장품주까지 상한가",
+    "date": "2026-11-19",
+    "title": "한중 FTA 후속협상 실질 타결, 엔터·유통주 급등",
+    "what": "중국이 영화·게임 등에서 한국에 최혜국 대우를 약속했고, 공동제작 범위도 넓혔습니다. 다만 K팝 공연 재개는 합의문에 들어가지 않았습니다.",
+    "reaction": "에스엠은 애프터마켓에서 +29.91% 상한가, JYP는 약 22% 급등. 유통·백화점 테마는 한 주 +10.6%",
     "themes": [
      "유통·백화점"
     ],
     "impact": "중",
     "sources": [
-     "https://www.ddaily.co.kr/page/view/2026111819455714632",
-     "https://www.fnnews.com/news/202611191824460108"
+     "https://www.hankyung.com/article/2026111967406",
+     "https://www.tenasia.co.kr/article/2026111854814"
     ]
    },
    {
-    "date": "2026-11-19",
-    "title": "코스피 이틀 반등, 5138 회복",
-    "what": "엔비디아 호실적에 반도체가 반등하며 코스피가 이틀 연속 올랐다. 외국인 매도는 계속됐다.",
-    "reaction": "코스피 +1.4%(5,138), 외국인 4,035억 원 순매도(5거래일 연속)",
+    "date": "2026-11-18",
+    "title": "낸드 현물가 20% 하락, 메모리주 이틀째 약세",
+    "what": "낸드 현물가격이 크게 떨어지면서 메모리 업황이 꺾이는 것 아니냐는 우려가 커졌습니다. 다만 AI용 메모리는 견조하다는 평가도 함께 나왔습니다.",
+    "reaction": "삼성전자·SK하이닉스 이틀째 하락",
     "themes": [
      "메모리·AI 반도체"
     ],
-    "impact": "하",
+    "impact": "중",
     "sources": [
-     "https://www.koreareport.co.kr/news/articleView.html?idxno=54937",
-     "https://www.businesskorea.co.kr/news/articleView.html?idxno=281733"
+     "https://www.g-enews.com/article/Global-Biz/2026/11/20261118141101504fbbec65dfb_1"
     ]
    }
   ],
   "US": [
    {
+    "date": "2026-11-20",
+    "title": "나스닥 5% 폭락, S&P500·다우 '조정' 진입",
+    "what": "AI 관련주가 무너지면서 나스닥이 올해 오른 폭을 모두 반납했습니다. 반도체는 2001년 뒤로 가장 나쁜 한 주를 보냈습니다.",
+    "reaction": "나스닥 -5.28%(22,617.73), 10년물 금리 4.92%로 하락, 금 약 -4%",
+    "themes": [
+     "AI 반도체",
+     "빅테크·클라우드",
+     "광통신·네트워크"
+    ],
+    "impact": "상",
+    "sources": [
+     "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-19-dow-sp-500-nasdaq-anthropic-nvidia-141644188.html",
+     "https://finance.yahoo.com/markets/article/chips-are-crashing-like-its-2008-as-the-nasdaq-100-nears-a-bear-market-192805534.html"
+    ]
+   },
+   {
     "date": "2026-11-16",
-    "title": "동남아 AI칩 수출통제 강화",
-    "what": "미 상무부가 싱가포르·말레이시아·태국·인도네시아·브라질로 가는 칩 수출에 정부 승인을 받게 하는 규정을 냈다. 19일 시행됐다. 엔비디아 리더십 공백 우려도 겹쳤다.",
-    "reaction": "나스닥 -2.49%(24,509.76), 필라델피아 반도체지수 -5.28%. 나스닥은 고점 대비 10% 넘게 빠진 조정 구간에 진입",
+    "title": "엔비디아, 젠슨 황 사임 여파로 급락",
+    "what": "황 CEO가 스캔들로 사임하고 콜레트 크레스 CFO가 임시 CEO를 맡았습니다. 회계 관련 SEC 조사 보도도 겹쳤습니다.",
+    "reaction": "엔비디아는 10월 6일 고점 뒤로 시가총액 약 2.7조 달러 감소",
     "themes": [
      "AI 반도체"
     ],
     "impact": "상",
     "sources": [
-     "https://www.tipranks.com/news/nasdaq-falls-as-nvidia-crisis-and-u-s-export-restrictions-weigh-on-tech-stocks",
-     "https://www.fxstreet.com/news/chip-stocks-slide-and-pull-the-nasdaq-to-a-one-week-low-202611162210"
+     "https://www.cnbc.com/2026/11/16/nvidia-stock-price-jensen-huang.html",
+     "https://www.nbcnews.com/business/markets/nvidia-stock-huang-resigns-rcna608958"
     ]
    },
    {
     "date": "2026-11-17",
-    "title": "엔비디아 3분기 깜짝 실적",
-    "what": "크레스 임시 CEO 체제에서 처음 낸 실적이다. 매출 1,158억 달러(+103%)로 예상(약 1,091억 달러)을 넘었고, 4분기 매출 1,300억 달러를 전망했다. 이사회는 황의 복귀 계획이 없다고 밝혔다.",
-    "reaction": "시간외 한때 3~5% 상승했다가 상승폭을 줄였다. 이달 들어 주가는 24% 하락한 상태",
+    "title": "엔비디아 3분기 '깜짝 실적'에도 주가 하락",
+    "what": "매출 1,158억 달러(+103%), 4분기 가이던스 1,300억 달러로 시장 예상을 넘었습니다. 하지만 이사회가 황의 복귀 계획이 없다고 밝혔습니다.",
+    "reaction": "시간외에서 최대 약 4% 올랐다가 다음 날 하락 마감",
     "themes": [
      "AI 반도체"
     ],
     "impact": "상",
     "sources": [
-     "https://m.news.nate.com/view/20261118n04428",
-     "https://m.news.nate.com/view/20261118n21021"
+     "https://www.nbcnews.com/business/business-news/live-blog/nvidia-stock-earnings-report-jensen-huang-rcna609804",
+     "https://www.cnbc.com/2026/11/18/nvidia-earnings-market-analysis.html"
     ]
    },
    {
     "date": "2026-11-19",
-    "title": "앤트로픽 사상 최대 IPO",
-    "what": "공모가 83달러(희망 범위 위)로 약 813억 달러를 모았다. 역대 최대 기업공개다.",
-    "reaction": "시초가 111.50달러(+34%) 뒤 97.17달러(+17%)로 마감. 알파벳·메타·아마존 등 AI 대형주는 2~4% 하락",
+    "title": "앤트로픽 상장, 역대 최대 IPO",
+    "what": "공모가 83달러로 813억 달러를 조달해 사상 최대 기업공개(IPO)가 됐습니다. 시가 111.50달러로 거래를 시작했습니다.",
+    "reaction": "첫날 종가 97.17달러(+17%), 시가총액 약 1.8조 달러. 같은 날 S&P500·나스닥은 2% 넘게 하락",
     "themes": [
      "빅테크·클라우드",
      "AI 반도체"
     ],
-    "impact": "상",
+    "impact": "중",
     "sources": [
      "https://fortune.com/2026/11/19/anthropic-ipo-first-day-trading-nasdaq-record-valuation/",
-     "https://www.fastcompany.com/91645598/anthropic-ipo-what-time-trading-start-stock-price-live-update"
+     "https://finance.yahoo.com/technology/live/anthropic-ipo-live-anthropic-stock-begins-trading-in-record-81b-raise-with-15t-valuation-192410598.html"
     ]
    },
    {
-    "date": "2026-11-19",
-    "title": "AMD, 공매도 보고서에 급락",
-    "what": "헌터브룩이 공매도 포지션을 공개하며, 미국 블랙리스트에 오른 중국 서버업체가 AMD 펌웨어 업데이트를 받았다고 주장했다. AMD는 혐의를 부인했다.",
-    "reaction": "AMD -7.7%(489.19달러). 같은 날 S&P500 종목의 90% 이상이 하락",
+    "date": "2026-11-16",
+    "title": "미 상무부, AI 칩 '원격 접근' 수출 통제",
+    "what": "중국 등 우려국 기업에 연산 능력을 빌려주는 해외 데이터센터로 칩 수출을 제한했습니다. 말레이시아·싱가포르 등 5개국에는 별도 허가 요건을 붙였습니다.",
+    "reaction": "엔비디아 경영 공백과 겹쳐 반도체주 약세가 커졌습니다",
     "themes": [
-     "AI 반도체"
+     "AI 반도체",
+     "메모리·AI 반도체"
     ],
     "impact": "중",
     "sources": [
-     "https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html",
-     "https://www.quantisnow.com/articles/sp-500-worst-day-of-six-day-slide-amd-short-report-anthropic-debut"
+     "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/",
+     "https://edition.cnn.com/2026/11/16/politics/ai-chips-restrictions-china"
     ]
    },
    {
-    "date": "2026-11-19",
-    "title": "S&P500 6일 연속 하락",
-    "what": "장 초반 AI주 반등이 사라지며 S&P500이 2% 내렸다. 6거래일 연속 하락이다.",
-    "reaction": "S&P500 주간 -5.1%(7,175.83), 나스닥 주간 -5.0%",
+    "date": "2026-11-18",
+    "title": "트럼프 방중, 미·중·러 정상 회동",
+    "what": "트럼프 대통령이 중국을 방문해 시진핑·푸틴과 만났고, 19일에는 3자 회담이 예정됐습니다.",
+    "reaction": "시장의 관심은 반도체 수출 규제와 대중 정책 방향에 쏠렸습니다",
     "themes": [
-     "빅테크·클라우드",
      "AI 반도체"
     ],
-    "impact": "상",
+    "impact": "하",
     "sources": [
-     "https://www.quantisnow.com/articles/sp-500-worst-day-of-six-day-slide-amd-short-report-anthropic-debut"
-    ]
-   },
-   {
-    "date": "2026-11-17",
-    "title": "미 10년물 5% 장기 체류",
-    "what": "12월 금리 인상 기대와 재정적자 우려로 10년물 금리가 20년 만에 가장 긴 '5% 이상' 구간을 이어갔다.",
-    "reaction": "10년물 5.12%(16일) → 5.06%(19일). 12월 0.25%p 인상 확률 99%(11/17 선물시장)",
-    "themes": [
-     "빅테크·클라우드",
-     "AI 반도체"
-    ],
-    "impact": "상",
-    "sources": [
-     "https://www.bloomberg.com/news/articles/2026-11-17/us-10-year-yield-set-for-historic-run-above-5-on-fed-rate-cycle",
-     "https://financeintime.com/news/2026/11/19/the-10-year-treasury-closed-at-5-pct-or-more-on-27-days-in-2026-after-none-in"
-    ]
-   },
-   {
-    "date": "2026-11-20",
-    "title": "유가 3주 연속 하락",
-    "what": "호르무즈 해협 원유 수출이 전쟁 전 수준으로 돌아오면서 공급 과잉 전망이 커졌다. 후티의 리야드 공격 같은 위험 요인은 남아 있다.",
-    "reaction": "WTI 주간 약 -8%, 20일 오전 81.81달러",
-    "themes": [],
-    "impact": "중",
-    "sources": [
-     "https://uk.advfn.com/market-news/article/26632/brent-and-wti-head-for-third-weekly-loss-as-strong-middle-east-oil-exports-offset-supply-risks",
-     "https://www.cnbc.com/2026/11/20/oil-wti-brent-hormuz.html"
+     "https://www.voakorea.com/a/8225096.html"
     ]
    }
   ]
  },
  "upcoming": [
   {
-   "date": "2026-11-24",
-   "region": "KR",
-   "event": "11월 소비자심리지수",
-   "expectation": "10월 105.4(전월 -1.2). 증시 급락 뒤 100선을 지키는지 확인",
-   "importance": "중",
-   "themes": [
-    "유통·백화점"
-   ],
-   "source": "https://www.bok.or.kr/portal/stats/statsPublictSchdul/listCldr.do?menuNo=200775"
-  },
-  {
-   "date": "2026-11-25",
-   "region": "US",
-   "event": "10월 PCE 물가 + 3분기 GDP 잠정치",
-   "expectation": "연준이 가장 중시하는 물가 지표. 뜨거우면 12월 인상에 이어 내년 추가 인상 기대가 커짐",
-   "importance": "상",
-   "themes": [
-    "빅테크·클라우드",
-    "AI 반도체"
-   ],
-   "source": "https://www.litefinance.org/blog/analysts-opinions/weekly-economic-calendar-for-23112026-29112026/"
-  },
-  {
    "date": "2026-11-26",
    "region": "KR",
-   "event": "한국은행 기준금리 결정 (올해 마지막)",
-   "expectation": "현재 3.00%(10월 동결). 증시 급락과 미국 인상 사이에서 내놓는 신호와 경제전망 수정",
+   "event": "한국은행 금통위 기준금리 결정 (올해 마지막)",
+   "expectation": "현재 3.00%입니다. 미국 금리 인상 압력과 증시 급락 사이에서 어떤 선택을 할지가 관전 포인트입니다",
    "importance": "상",
    "themes": [
-    "메모리·AI 반도체",
-    "유통·백화점"
+    "유통·백화점",
+    "2차전지"
    ],
    "source": "https://marketlog.co.kr/rate-decision-calendar-2026/"
   },
   {
-   "date": "2026-11-26",
-   "region": "US",
-   "event": "추수감사절 휴장 (27일 단축 거래)",
-   "expectation": "거래가 얇은 주간이라 변동성이 커질 수 있음",
-   "importance": "하",
-   "themes": [],
-   "source": "https://www.litefinance.org/blog/analysts-opinions/weekly-economic-calendar-for-23112026-29112026/"
-  },
-  {
-   "date": "2026-11-29",
-   "region": "글로벌",
-   "event": "OPEC+ 장관회의 (2027년 생산 정책)",
-   "expectation": "공급 과잉 전망 속 감산 여부. 유가와 물가 기대에 영향",
-   "importance": "중",
-   "themes": [],
-   "source": "https://uk.advfn.com/market-news/article/26632/brent-and-wti-head-for-third-weekly-loss-as-strong-middle-east-oil-exports-offset-supply-risks"
-  },
-  {
    "date": "2026-12-04",
    "region": "US",
-   "event": "11월 고용보고서",
-   "expectation": "FOMC 직전 마지막 고용 지표. 강하면 인상 폭이 0.25%p보다 커질 수 있다는 시각도 소수 존재",
-   "importance": "상",
-   "themes": [
-    "빅테크·클라우드"
-   ],
-   "source": "https://www.litefinance.org/blog/analysts-opinions/weekly-economic-calendar-for-23112026-29112026/"
-  },
-  {
-   "date": "2026-12-09",
-   "region": "US",
-   "event": "FOMC 금리 결정 + 점도표",
-   "expectation": "현재 3.75~4.00%. 0.25%p 인상 확률 99%(11/17 선물시장). 핵심은 내년 경로",
-   "importance": "상",
-   "themes": [
-    "AI 반도체",
-    "빅테크·클라우드",
-    "광통신·네트워크"
-   ],
-   "source": "https://fedratecalc.com/fomc-meeting-schedule/"
-  },
-  {
-   "date": "2026-12-09",
-   "region": "US",
-   "event": "브로드컴 4분기 실적 (장 마감 후)",
-   "expectation": "엔비디아 이후 AI 맞춤칩·네트워크 수요 확인. 광통신 테마와도 연결",
-   "importance": "상",
-   "themes": [
-    "AI 반도체",
-    "광통신·네트워크"
-   ],
-   "source": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-inc-announce-fourth-quarter-and-fiscal-year-2026"
-  },
-  {
-   "date": "2026-12-10",
-   "region": "US",
-   "event": "11월 소비자물가(CPI)",
-   "expectation": "10월 CPI가 뜨거워 금리가 5%를 넘었다. 둔화 여부가 장기 금리 방향을 정함",
+   "event": "미국 11월 고용보고서",
+   "expectation": "고용이 강하면 12월 금리 인상 근거가 굳어집니다",
    "importance": "상",
    "themes": [
     "빅테크·클라우드",
     "AI 반도체"
    ],
-   "source": "https://www.bls.gov/schedule/news_release/cpi.htm"
+   "source": "https://fxnx.com/en/blog/december-2026-economic-calendar-jobs-4-dec-fomc-9-dec-cpi-10"
   },
   {
-   "date": "2026-12-15",
+   "date": "2026-12-09",
    "region": "US",
-   "event": "11월 생산자물가(PPI)",
-   "expectation": "기업 비용 쪽 물가 압력 확인",
+   "event": "FOMC 금리 결정 (+경제전망·점도표)",
+   "expectation": "선물시장은 0.25%p 인상 가능성을 99%로 반영했습니다(11/17 기준). 이 결정에 따라 10년물 금리 5% 선을 다시 넘을지가 갈립니다",
+   "importance": "상",
+   "themes": [
+    "AI 반도체",
+    "빅테크·클라우드",
+    "메모리·AI 반도체"
+   ],
+   "source": "https://www.frenzycap.com/fedwatch/2026-12-09"
+  },
+  {
+   "date": "2026-12-10",
+   "region": "US",
+   "event": "미국 11월 소비자물가(CPI)",
+   "expectation": "FOMC 다음 날 나옵니다. 물가가 높게 나오면 내년 추가 인상 우려가 커집니다",
    "importance": "중",
-   "themes": [],
-   "source": "https://www.bls.gov/schedule/2026/12_sched_list.htm"
+   "themes": [
+    "빅테크·클라우드"
+   ],
+   "source": "https://fedratecalc.com/us-economic-calendar/december-2026/"
   }
  ],
  "theme_notes": [
   {
    "id": "kr_memory",
-   "note": "고점 대비 -56.8%, 4주 -13.6%로 침체가 깊어졌다. 엔비디아 실적은 수요가 견조함을 보여줬지만 CEO 공백·수출통제·담합 소송이 겹쳐 외국인 매도가 그치지 않았다."
+   "note": "고점(6/19) 대비 -56.9%이고 한 주에 -11.7%였습니다. 소송, 낸드 가격, 엔비디아 리더십이 한꺼번에 겹쳐 '침체'가 깊어지는 중입니다."
   },
   {
    "id": "kr_semi_equip",
-   "note": "1주 -16.9%, 4주 -23.9%로 국내 테마 중 이번 주 낙폭이 가장 컸다. 10월에 반등했던 폭을 한 달 만에 모두 반납했다."
+   "note": "4주 수익률이 -24.1%로 메모리보다 더 크게 빠졌습니다. 고객사가 투자를 줄일 수 있다는 우려가 장비주에 먼저 반영되고 있습니다."
   },
   {
    "id": "kr_battery",
-   "note": "고점 대비 -50.4%. 다만 12주 기준으로는 시장보다 3.2%p 덜 빠졌고, 뉴스 언급은 25% 늘었다. 침체 속 상대적 버팀이다."
+   "note": "한 주 -12.5%로 침체가 이어지고 있습니다. 그래도 12주 기준으로는 시장보다 2.7%p 덜 빠졌고, 뉴스 언급은 17% 늘었습니다."
   },
   {
    "id": "kr_ship",
-   "note": "12주 -42.0%로 시장보다 13.4%p 약하다. 4월 고점 이후 하락 추세가 그대로 이어지고 있다."
+   "note": "고점 대비 -61.4%, 12주 기준 시장보다 -13.8%p로 열위가 계속됩니다. 증권사 2027년 전망은 '반등 가능성, 증명의 시간'이라는 신중한 톤입니다."
   },
   {
    "id": "kr_defense",
-   "note": "고점 대비 -62.0%, 12주 상대수익 -17.5%p. 1주 낙폭(-6.4%)은 작았지만 반등 신호는 아직 없다."
+   "note": "한 주 -6.6%로 다른 테마보다 덜 빠졌습니다. 다만 12주 -46.2%로 주도주에서 밀려난 흐름은 그대로입니다."
   },
   {
    "id": "kr_nuclear",
-   "note": "4주 -27.7%, 고점 대비 -65.8%. 이번 주 구루 언급도 0건으로 관심 자체가 줄었다."
+   "note": "4주 -27.8%로 국내 테마 중 가장 크게 빠졌고, 고점 대비 -65.8%입니다. 이번 주 구루 언급은 0건이었습니다."
   },
   {
    "id": "kr_power",
-   "note": "고점 대비 -67.4%로 낙폭이 가장 크다. 반대로 블로그·리포트에서는 데이터센터 전력망 이야기가 늘었다. 언급과 가격이 엇갈리는 구간이다."
+   "note": "고점 대비 -67.5%로 낙폭이 가장 깊습니다. 그런데 구루 언급(3건)은 평소의 1.5배로 늘었습니다. 가격은 아직 반응하지 않고 언급만 먼저 늘어난 상태입니다."
   },
   {
    "id": "kr_bio",
-   "note": "1주 -2.0%로 방어적이었고, 12주 상대수익 +13.8%p로 시장보다 강하다. 침체 단계지만 하락장에서 피난처 역할을 했다."
+   "note": "한 주 -2.0%로 잘 버텼고, 12주 기준 시장보다 13.5%p 덜 빠졌습니다. 하락장에서 방어 역할을 하는 중입니다."
   },
   {
    "id": "kr_robot",
-   "note": "4주 +1.3%로 국내 테마 중 드물게 플러스. 12주 상대수익 +17.9%p로 버티는 중이다."
+   "note": "이번 하락장에서도 4주 수익률이 +1.6%입니다. 12주 기준 시장보다 17.9%p 앞서 상대적으로 강합니다."
   },
   {
    "id": "kr_retail",
-   "note": "1주 +10.5%로 국내 테마 중 유일하게 크게 올랐다. 한한령 완화 기대가 동력으로 보이지만, 신세계 10월 매출이 전년 대비 줄어 실적 확인이 필요하다."
+   "note": "한중 FTA·한한령 해제 기대로 한 주 +10.6% 반등했습니다. 다만 신세계 10월 매출이 줄어 실제 소비 지표로 확인할 필요가 있습니다."
   },
   {
    "id": "kr_photonics",
-   "note": "유일하게 '바닥 다지기' 단계다. 12주 -3.2%, 상대수익 +25.4%p로 가장 강하게 버텼고 뉴스 언급도 30% 늘었다."
+   "note": "유일한 '바닥 다지기' 단계입니다. 12주 기준 시장보다 24.5%p 앞서고, 뉴스 언급도 19% 늘었습니다."
   },
   {
    "id": "us_ai_semi",
-   "note": "이번 주 '꺾임'에서 '침체'로 단계가 내려갔다. 4주 -15.8%. 실적보다 CEO 공백·수출통제·AMD 공매도 보고서가 가격을 지배했다."
+   "note": "이번 주 '꺾임'에서 '침체'로 단계가 바뀌었습니다(한 주 -9.6%). 엔비디아 리더십 공백과 수출 통제가 해결되기 전까지는 반등이 쉽지 않아 보입니다."
   },
   {
    "id": "us_bigtech",
-   "note": "고점 대비 -9.8%로 아직 '상승' 단계다. 앤트로픽 상장 당일 2~4% 빠졌고, 13F에서는 아마존·MS·알파벳 매도가 몰렸다."
+   "note": "고점 대비 -9.8%로 아직 '상승' 단계입니다. 다만 13F에서 아마존·MS·알파벳을 판 구루가 5~6명이어서 주의가 필요합니다."
   },
   {
    "id": "us_power",
-   "note": "고점 대비 -34.6%로 침체. 다만 4주 -4.8%로 낙폭은 줄었고 블로그 언급은 평소보다 늘었다."
+   "note": "4주 -4.8%로 AI 반도체보다 덜 빠졌고, 구루 언급은 평소보다 늘었습니다. 다만 '침체' 단계를 벗어나지는 못했습니다."
   },
   {
    "id": "us_ev",
-   "note": "12주 -25.0%, 상대수익 -18.0%p로 약세가 이어진다. 반등 재료가 아직 보이지 않는다."
+   "note": "12주 기준 시장보다 -18.0%p로 열위가 계속되는 '침체' 단계입니다."
   },
   {
    "id": "us_photonics",
-   "note": "4주 -18.1%로 10월 반등을 대부분 되돌렸다. 12/9 브로드컴 실적이 다음 분기점이다."
+   "note": "4주 -18.1%로 AI 매도의 직격탄을 맞았습니다. 국내 광통신이 버티는 것과 대조적입니다."
   },
   {
    "id": "us_bio",
-   "note": "11/13 고점 대비 -5.1%로 '상승' 단계 유지. 12주 상대수익 +11.8%p로 금리 부담기에 대안 역할을 하고 있다."
+   "note": "11/13에 고점을 찍은 '상승' 단계입니다. 12주 기준 시장보다 11.8%p 앞서 이번 하락장의 피난처 역할을 했습니다."
   },
   {
    "id": "us_cyber",
-   "note": "1주 +5.4%로 이번 주 미국 테마 중 유일하게 올랐다. 다만 4주 -11.1%로 '꺾임' 단계는 그대로다."
+   "note": "'꺾임' 단계지만 이번 주에는 +5.4%로 반등했습니다. AI 매도와 별개로 움직이는지 지켜볼 만합니다."
   }
  ],
  "undercurrent": [
   {
-   "title": "데이터센터 전력망",
-   "point": "전력 테마는 가격이 고점 대비 -67%인데, 블로그 언급은 평소보다 늘었다",
-   "body": "국내 전력기기(3건, 4주 평균 2.0)와 미국 전력 인프라(3건, 평균 1.8) 모두 '저평가 레이더'에 걸렸다. 리포트에서도 비수도권 데이터센터, 데이터센터 비용 분담, COP31 전력망 투자 같은 제목이 이어졌다. 가격은 아직 반응하지 않았다."
+   "title": "앤트로픽 상장",
+   "point": "구루 글 7건, 뉴스 하루 약 1,053건으로 이번 주 새 화두였습니다",
+   "body": "역대 최대 IPO여서 상장 첫날 성과와 지수 편입 일정, 수급 영향에 관심이 쏠렸습니다. 첫날 +17% 뒤 이튿날 바로 밀려 AI 기대와 피로가 함께 드러났습니다."
   },
   {
-   "title": "한중·한한령",
-   "point": "'한중'이 구루 키워드에 새로 등장했고, 증권사 산업 리포트가 업종별 수혜를 쏟아냈다",
-   "body": "항공·엔터·카지노·화장품·유통까지 여러 증권사가 영향 점검 리포트를 냈다. 엔터는 이미 급등했다. 유통·백화점은 1주 +10.5%로 반응이 시작된 단계다."
+   "title": "전력·전력망",
+   "point": "국내외 전력 테마 구루 언급이 4주 평균보다 늘었지만 가격은 아직 하락 중입니다",
+   "body": "국내 전력기기는 3건(평균 2.0), 미국 전력 인프라는 3건(평균 1.8)이었습니다. 증권사에서도 데이터센터 비용 분담, 전력망 투자 리포트가 이어졌습니다. 가격(4주 -20.0%)보다 이야기가 먼저 움직이는 구간입니다."
+  },
+  {
+   "title": "광통신·2차전지 뉴스 증가",
+   "point": "광통신 뉴스는 19%, 2차전지는 17% 늘었습니다",
+   "body": "국내 광통신은 '바닥 다지기' 단계에서 버티고 있고, 2차전지는 ESS 수요(북미 누적 +19%) 리포트가 나왔습니다. 두 테마 모두 가격은 아직 반등 전입니다."
+  },
+  {
+   "title": "바이오·치료제",
+   "point": "국내 바이오 구루 언급이 4주 평균 0건에서 2건으로 늘었고, '치료제'가 새 키워드로 떴습니다",
+   "body": "일라이릴리 뉴스도 18% 늘었습니다. 하락장에서 덜 빠진 바이오로 관심이 옮겨가는 신호일 수 있습니다."
   },
   {
    "title": "백화점 매출",
-   "point": "'백화점 매출' 뉴스 언급이 하루 평균 132건으로 지난주보다 56% 늘었다",
-   "body": "한한령 완화 기대와 신세계 10월 매출 감소(-2.85%)가 함께 기사화된 영향으로 보인다. 관심은 늘었지만 숫자는 아직 엇갈린다."
-  },
-  {
-   "title": "바이오·일라이릴리",
-   "point": "국내 바이오 언급이 0에서 2건으로 늘었고, '일라이릴리' 뉴스 언급은 26% 늘었다",
-   "body": "미국 바이오는 '상승' 단계를 유지한다. 증권사도 '코스피 제약사 중심 헬스케어 상승'을 짚었다. 국내 바이오 가격은 1주 -2.0%로 시장보다 덜 빠졌다."
-  },
-  {
-   "title": "광통신",
-   "point": "광통신 뉴스 언급이 30% 늘었고, 국내 광통신 테마는 유일하게 '바닥 다지기' 단계다",
-   "body": "신한투자증권의 CPO(빛으로 칩을 연결하는 기술) 리포트 등 데이터센터 네트워크 관심이 이어졌다. 가격은 4주 -2.6%로 버티는 중이다."
+   "point": "'백화점 매출' 뉴스가 전주보다 46% 늘었습니다",
+   "body": "한한령 해제 기대와 신세계 10월 매출 감소가 함께 화제가 됐습니다. 소비 회복 여부를 두고 시각이 엇갈리고 있습니다."
   }
  ],
- "flows_note": "13F는 9월 30일 기준 보유 내역이라 이번 달 급락 전 판단이다. 거물 투자자들이 함께 산 종목은 메타(5명)·마이크론(4명)·스페이스X·인텔·엔비디아(각 4명)였다. 함께 판 종목은 아마존(6명)·MS·알파벳·메타(각 5명)·ASML(4명)이다. 같은 빅테크 안에서도 '메모리·칩은 더 사고, 클라우드 대형주는 덜어내는' 흐름이 보인다. 메타는 산 사람과 판 사람이 모두 5명이라 의견이 갈렸다. 버핏은 알파벳을 꾸준히 늘렸다(누적 +341.5%). 켄 그리핀은 엔비디아를 줄였다(-29.8%). 국민연금은 PCB(코리아써키트·LG이노텍·대덕전자), 카지노(파라다이스·롯데관광개발), 백화점(현대백화점·롯데쇼핑) 지분을 줄였다. 대신 GS건설·빙그레·현대해상·아모레퍼시픽·NAVER를 늘렸다. 한한령 기대로 오른 유통·카지노를 국민연금은 덜어내는 쪽이었다는 점은 기억해 둘 만하다.",
+ "flows_note": "13F(미국 대형 운용사가 분기마다 내는 보유 종목 보고서)는 9월 말 기준이어서 이번 주 급락 전 포지션입니다. 구루들은 메타(5명)·마이크론(4명)·스페이스X(4명)·인텔(4명)·엔비디아(4명)를 늘렸습니다. 반면 아마존(6명), MS·알파벳·메타(각 5명)는 줄였습니다. 빅테크 안에서도 종목을 갈아타는 움직임이 뚜렷하고, 메모리(마이크론·씨게이트)를 늘린 점이 눈에 띕니다. 국민연금은 PCB(코리아써키트·LG이노텍·대덕전자)와 카지노·백화점(파라다이스·롯데관광개발·현대백화점·롯데쇼핑) 지분을 줄였습니다. 반대로 GS건설·빙그레·현대해상·아모레퍼시픽·NAVER는 늘렸고, 한화머시너리앤서비스홀딩스는 5.22%로 새로 보고했습니다. 한한령 기대로 오른 카지노·백화점 지분을 연금이 미리 줄여 둔 점은 참고할 만합니다.",
  "reports_note": {
   "consensus": [
    {
-    "title": "한한령 완화 수혜 지도",
-    "point": "한중 FTA 타결 직후 7개 넘는 증권사가 업종별 영향 리포트를 냈다",
-    "body": "한화(항공>엔터>카지노), iM·SK·DS(엔터·공연), 키움(유통·화장품), 신한(업종 전반)이 다뤘다. 공통된 결론은 '제도적 첫 단추'다. DS투자증권 제목('냉정과 열정 사이')처럼 실제 승인 확인이 필요하다는 신중론도 함께 나왔다."
+    "title": "3분기 실적 리뷰 시즌",
+    "point": "'아쉬운 분기, 그래도 내년'이 공통된 톤입니다",
+    "body": "SK오션플랜트(5건)·롯데관광개발·농심(각 4건)에 리포트가 몰렸습니다. 3분기는 기대에 못 미쳤지만 2027년 회복을 보자는 제목이 많았습니다."
    },
    {
-    "title": "3분기 실적, '아쉽지만 내년'",
-    "point": "리포트가 몰린 종목 상당수가 '3분기는 아쉬웠다, 2027년을 보라'는 구조다",
-    "body": "롯데관광개발(4건), 농심(4건), 클래시스·미스토홀딩스(각 3건)가 대표적이다. 동시에 2027년 연간 전망 리포트가 쏟아지기 시작했다. 증권사들이 시선을 내년 실적으로 옮기는 시기다."
+    "title": "한중 FTA·한한령",
+    "point": "항공·엔터·카지노·화장품 수혜 분석이 쏟아졌습니다",
+    "body": "5개 넘는 증권사가 업종별 영향 점검 리포트를 냈습니다. '냉정과 열정 사이'처럼 실제 개방은 지켜보자는 신중론도 함께 나왔습니다."
    },
    {
-    "title": "PCB·데이터센터 인프라",
-    "point": "PCB 판가 인상과 데이터센터 전력 리포트가 반도체 급락 속에서도 이어졌다",
-    "body": "이수페타시스(3건), 대신 'PCB: 소캠2', iM 'PCB 가동률·단가 개선'이 나왔다. SK는 'AI 현금흐름 집중'이라는 시각이다. 한화는 '젠슨 황 사태: CEO는 바뀌어도 수요는 남는다'며 메모리 수요 훼손 가능성을 제한적으로 봤다."
+    "title": "PCB 판가 인상",
+    "point": "기판(PCB) 업종의 이익 상향 기대가 이어졌습니다",
+    "body": "이수페타시스 3건과 PCB 산업 리포트(가동률·단가 개선, 소캠2)가 나왔습니다. AI 서버 수요가 부품 가격으로 번지고 있다는 시각입니다."
+   },
+   {
+    "title": "반도체 '수요는 남는다'",
+    "point": "급락 속에서도 메모리 수요 훼손은 제한적이라는 리포트가 다수였습니다",
+    "body": "'젠슨 황 사태: CEO는 바뀌어도 수요는 남는다', '투자는 이어질 것', '여전히 밸류 부담 없는 구간' 같은 제목이 이어졌습니다. 주가 흐름과는 반대 방향의 진단입니다."
    }
   ],
   "unusual": [
    {
-    "what": "이수페타시스 목표가 -31.6% 하향, 제목은 '이익 레벨업'",
-    "why": "제목은 긍정적인데 목표가를 크게 낮췄다. 실적 전망보다 밸류에이션 눈높이가 내려갔다는 신호",
-    "item": "이수페타시스"
-   },
-   {
-    "what": "삼성전기 목표가 -28.6% 하향, 제목은 '마진 피크는 아직 멀었음'",
-    "why": "업황 시각은 그대로인데 반도체 급락으로 주가 기준을 낮춘 사례",
-    "item": "삼성전기"
-   },
-   {
-    "what": "솔루스첨단소재 목표가 -41.2% 하향",
-    "why": "가공비 50% 인상에도 적자가 커진다는 지적. 이번 주 하향폭 1위",
-    "item": "솔루스첨단소재"
-   },
-   {
-    "what": "하나증권 '글로벌 금리 급등으로 다시 부각된 defensive 매력'",
-    "why": "금리 5% 국면에서 은행을 방어주로 다시 보는 시각. 반도체 쏠림의 반대편",
-    "item": "은행"
-   },
-   {
-    "what": "하나증권 '백화점 바텀피싱(바닥에서 사기)'",
-    "why": "신세계 리포트 3건이 '4분기 출발 아쉬움'을 말할 때 산업 단위로 바닥론을 꺼냈다",
-    "item": "유통·백화점"
-   },
-   {
-    "what": "매수가 아닌 의견: 인터플렉스·스카이라이프(MarketPerform), 한세실업(Hold)",
-    "why": "매수 의견이 대부분인 국내 리포트에서 드문 중립 의견",
+    "what": "매수가 아닌 의견 3건: 인터플렉스·스카이라이프(MarketPerform), 한세실업(Hold)",
+    "why": "전체 의견 중 거의 대부분이 매수인 가운데 드문 중립 의견입니다",
     "item": "인터플렉스·스카이라이프·한세실업"
    },
    {
-    "what": "포스코DX 첫 커버, '수주 회복과 Physical AI'",
-    "why": "로봇·물리 AI 테마가 대형 IT서비스로 번지는 신호",
-    "item": "포스코DX"
+    "what": "하나증권 '백화점 바텀피싱'",
+    "why": "백화점 매출이 꺾인 시점에 바닥에서 사자는 역발상 리포트입니다",
+    "item": "유통·백화점"
+   },
+   {
+    "what": "한화투자증권 '9월 연체율: 전 대출종에서 빨라진 연체 증가 속도'",
+    "why": "소비·신용 경기가 약해지고 있다는 조기 신호일 수 있습니다",
+    "item": "은행"
+   },
+   {
+    "what": "포스코DX·한중엔시에스 신규 커버",
+    "why": "Physical AI(로봇·공장 자동화)와 ESS·UPS(무정전 전원장치)라는 새 성장 이야기로 처음 다뤄졌습니다",
+    "item": "포스코DX·한중엔시에스"
+   },
+   {
+    "what": "SK오션플랜트 5건 중 '안타까운 기업'",
+    "why": "리포트가 가장 많이 몰린 종목인데, 제목의 온도차가 큽니다",
+    "item": "SK오션플랜트"
    }
   ]
  },
- "consumption_note": "백화점 소비는 꺾이는 쪽 신호가 먼저 나왔다. 신세계 월 총매출의 전년 대비 증가율은 7월 +14.21%에서 8월 +7.03%, 9월 +6.57%로 줄었다. 10월에는 -2.85%로 넉 달 만에 처음 마이너스가 됐다. 소비자심리지수는 10월 105.4로 장기 평균(100)보다 높지만 전월보다 1.2 내렸다. 카드 이용금액은 8월 +6.0%로 아직 견조하다. 다만 약 3개월 늦게 나오는 지표라 최근 증시 급락의 영향은 반영되지 않았다. 증권사도 신세계에 대해 '아쉬운 4분기 출발', '백화점 둔화 우려'를 짚었다. 이번 주 유통주 반등(+10.5%)은 소비 회복보다 한한령 완화 기대 쪽이다. 다음 확인 시점은 11/24 11월 소비자심리지수와 12월 8~10일 신세계 11월 매출 공시다. 코스피 급락에 따른 자산효과(주가 하락으로 지갑이 닫히는 효과)가 나타나는지가 관건이다.",
+ "consumption_note": "백화점 대리 지표인 신세계 월별 총매출(전년 대비)은 7월 +14.2%, 8월 +7.0%, 9월 +6.6%로 둔화됐습니다. 10월에는 -2.85%로 처음 감소로 돌아섰습니다. 소비자심리지수는 10월 105.4로 한 달 새 1.2p 내렸지만, 장기 평균(100)보다는 아직 낙관 쪽입니다. 카드 이용금액은 8월 +6.0%로 견조했습니다. 정리하면 '심리와 카드는 버티는데 백화점 매출이 먼저 꺾인' 모습입니다. 증권사도 '백화점 둔화 우려가 반영된 밸류에이션'과 '바텀피싱'으로 의견이 갈립니다. 이번 주 주가 급락이 자산효과(주식으로 번 돈이 소비로 이어지는 효과)를 줄이면 11월 수치가 더 약해질 수 있습니다. 다음 확인 시점은 11월 소비자심리지수(11월 하순 발표 예정, 10월분은 10/27 발표)와 신세계 11월 매출 공시(12월 8~10일께)입니다.",
  "sources": [
   {
    "title": "엔비디아 충격파… 코스피 3.59%·코스닥 4.86% 급락 (세계일보)",
    "url": "https://www.segye.com/newsView/20261116515320"
   },
   {
-   "title": "'독'이 된 반도체 쏠림…젠슨 황 스캔들 20일만에 코스피 17% 급락 (아주경제)",
-   "url": "https://www.ajunews.com/view/20261117162019727"
+   "title": "검은 금요일 코스피 5.21% 급락 4869 마감 (시사저널e)",
+   "url": "https://www.sisajournal-e.com/news/articleView.html?idxno=425214"
   },
   {
-   "title": "코스피 5000선 무너져⋯외국인 1.4조원 순매도 (브릿지경제)",
-   "url": "https://www.viva100.com/article/20261117500078"
+   "title": "코스피 5.21% 폭락, 코스닥 5.71% 급락 (Businesskorea)",
+   "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=281841"
   },
   {
-   "title": "코스피 5% 급락 4869.96 마감…삼전 7%↓ (서울신문)",
-   "url": "https://www.seoul.co.kr/news/economy/securities/2026/11/20/20261120500227"
+   "title": "삼성전자 주가 7% 급락 (재경일보)",
+   "url": "https://news.jkn.co.kr/post/1110837"
   },
   {
-   "title": "코스피 4869 마감…외국인 1조2682억원 순매도 (한국경제)",
-   "url": "https://www.hankyung.com/article/202611200429i"
-  },
-  {
-   "title": "코스피, 외국인 매도에도 1.4% 올라 5138 마감 (코리아리포트)",
-   "url": "https://www.koreareport.co.kr/news/articleView.html?idxno=54937"
-  },
-  {
-   "title": "삼전·하닉, 미국서 '담합 소송' (SBS Biz)",
-   "url": "https://biz.sbs.co.kr/amp/article/20000320364"
-  },
-  {
-   "title": "D램 담합 소송 기각 신청 거부 (파이낸셜뉴스)",
+   "title": "D램 반독점 소송 본안 돌입, SK하이닉스 하락 (파이낸셜뉴스)",
    "url": "https://www.fnnews.com/news/202611170601200280"
   },
   {
-   "title": "한·중 FTA 후속 협상 타결… 엔터주 불기둥 (디지털데일리)",
-   "url": "https://www.ddaily.co.kr/page/view/2026111819455714632"
+   "title": "젠슨 황 스캔들 20일 만에 코스피 17% 급락 (아주경제)",
+   "url": "https://www.ajunews.com/view/20261117162019727"
   },
   {
-   "title": "'한한령 해빙무드'… 엔터·여행·화장품주 상한가 (파이낸셜뉴스)",
-   "url": "https://www.fnnews.com/news/202611191824460108"
+   "title": "코스피, 젠슨 황 사임 후폭풍에 또 하락 출발 (글로벌이코노믹)",
+   "url": "https://www.g-enews.com/article/Securities/2026/11/202611170913198654923c501012_1"
   },
   {
-   "title": "엔비디아 3분기 매출 155조원, 103%↑ (네이트 뉴스)",
-   "url": "https://m.news.nate.com/view/20261118n04428"
+   "title": "낸드 현물가 20% 하락에 삼성·하이닉스 이틀째 하락 (글로벌이코노믹)",
+   "url": "https://www.g-enews.com/article/Global-Biz/2026/11/20261118141101504fbbec65dfb_1"
   },
   {
-   "title": "젠슨 황 없어도 잘 나갈까…\"복귀 계획 없다\" (네이트 뉴스)",
-   "url": "https://m.news.nate.com/view/20261118n21021"
+   "title": "한중 FTA 2단계 협상 타결에 미디어·엔터주 들썩 (한국경제)",
+   "url": "https://www.hankyung.com/article/2026111967406"
   },
   {
-   "title": "Nvidia stock falls as investors price in fallout from Jensen Huang's resignation (CNBC)",
+   "title": "Nvidia stock falls after Jensen Huang's resignation (CNBC)",
    "url": "https://www.cnbc.com/2026/11/16/nvidia-stock-price-jensen-huang.html"
   },
   {
-   "title": "Nasdaq Falls as Nvidia Crisis and U.S. Export Restrictions Weigh on Tech Stocks (TipRanks)",
-   "url": "https://www.tipranks.com/news/nasdaq-falls-as-nvidia-crisis-and-u-s-export-restrictions-weigh-on-tech-stocks"
+   "title": "Nvidia earnings live updates (NBC News)",
+   "url": "https://www.nbcnews.com/business/business-news/live-blog/nvidia-stock-earnings-report-jensen-huang-rcna609804"
   },
   {
-   "title": "Chip stocks slide and pull the Nasdaq to a one-week low (FXStreet)",
-   "url": "https://www.fxstreet.com/news/chip-stocks-slide-and-pull-the-nasdaq-to-a-one-week-low-202611162210"
+   "title": "Analysts expect Nvidia investor uncertainty despite earnings beat (CNBC)",
+   "url": "https://www.cnbc.com/2026/11/18/nvidia-earnings-market-analysis.html"
   },
   {
    "title": "Anthropic stock pops in mega IPO (Fortune)",
    "url": "https://fortune.com/2026/11/19/anthropic-ipo-first-day-trading-nasdaq-record-valuation/"
   },
   {
-   "title": "ANT stock update: Anthropic rises double digits on first trading day (Fast Company)",
-   "url": "https://www.fastcompany.com/91645598/anthropic-ipo-what-time-trading-start-stock-price-live-update"
+   "title": "Dow and S&P 500 enter correction, Nasdaq sinks 5% (Yahoo Finance)",
+   "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-19-dow-sp-500-nasdaq-anthropic-nvidia-141644188.html"
   },
   {
-   "title": "AMD stock dives on short-seller report of alleged China exposure (CNBC)",
-   "url": "https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html"
+   "title": "Chips suffer worst week since 2001 (Yahoo Finance)",
+   "url": "https://finance.yahoo.com/markets/article/chips-are-crashing-like-its-2008-as-the-nasdaq-100-nears-a-bear-market-192805534.html"
   },
   {
-   "title": "S&P 500 drops 2% for a sixth straight loss (Quantisnow)",
-   "url": "https://www.quantisnow.com/articles/sp-500-worst-day-of-six-day-slide-amd-short-report-anthropic-debut"
+   "title": "US tightens AI chip export controls on remote access (TechCrunch)",
+   "url": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/"
   },
   {
-   "title": "US 10-Year Yield Set for Historic Run Above 5% (Bloomberg)",
-   "url": "https://www.bloomberg.com/news/articles/2026-11-17/us-10-year-yield-set-for-historic-run-above-5-on-fed-rate-cycle"
+   "title": "트럼프 대통령 방중 시작, 미·중·러 3자 회담 예정 (VOA)",
+   "url": "https://www.voakorea.com/a/8225096.html"
   },
   {
-   "title": "The 10-year Treasury closed at 5% or more on 27 days in 2026 (Finance in Time)",
-   "url": "https://financeintime.com/news/2026/11/19/the-10-year-treasury-closed-at-5-pct-or-more-on-27-days-in-2026-after-none-in"
+   "title": "December 2026 FOMC rate probabilities (FrenzyCap)",
+   "url": "https://www.frenzycap.com/fedwatch/2026-12-09"
   },
   {
-   "title": "Brent and WTI Head for Third Weekly Loss (ADVFN)",
-   "url": "https://uk.advfn.com/market-news/article/26632/brent-and-wti-head-for-third-weekly-loss-as-strong-middle-east-oil-exports-offset-supply-risks"
-  },
-  {
-   "title": "Oil prices gain as Houthi attacks on Riyadh raise supply concerns (CNBC)",
-   "url": "https://www.cnbc.com/2026/11/20/oil-wti-brent-hormuz.html"
-  },
-  {
-   "title": "Next Fed Meeting Dec 8–9: FOMC Schedule (fedratecalc)",
-   "url": "https://fedratecalc.com/fomc-meeting-schedule/"
-  },
-  {
-   "title": "Weekly Economic Calendar 23.11–29.11.2026 (LiteFinance)",
-   "url": "https://www.litefinance.org/blog/analysts-opinions/weekly-economic-calendar-for-23112026-29112026/"
-  },
-  {
-   "title": "BLS CPI release schedule",
-   "url": "https://www.bls.gov/schedule/news_release/cpi.htm"
-  },
-  {
-   "title": "BLS December 2026 release schedule",
-   "url": "https://www.bls.gov/schedule/2026/12_sched_list.htm"
-  },
-  {
-   "title": "Broadcom to announce Q4 FY2026 results on December 9, 2026",
-   "url": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-inc-announce-fourth-quarter-and-fiscal-year-2026"
+   "title": "December 2026 Economic Calendar (FXNX)",
+   "url": "https://fxnx.com/en/blog/december-2026-economic-calendar-jobs-4-dec-fomc-9-dec-cpi-10"
   },
   {
    "title": "한국 기준금리 발표일 11월 26일 (marketlog)",
    "url": "https://marketlog.co.kr/rate-decision-calendar-2026/"
-  },
-  {
-   "title": "한국은행 월간통계 공표일정",
-   "url": "https://www.bok.or.kr/portal/stats/statsPublictSchdul/listCldr.do?menuNo=200775"
   }
  ],
  "_meta": {
-  "cost_usd_equivalent": 1.5756159999999997,
-  "num_turns": 21
+  "cost_usd_equivalent": 1.4099218000000002,
+  "num_turns": 16
  }
 }
