@@ -246,3 +246,15 @@ footer { margin-top: 36px; font-size: 13px; color: var(--muted); display: grid; 
   .seg button { padding: 5px 9px; font-size: 13px; }
 }
 @media (prefers-reduced-motion: reduce) { * { scroll-behavior: auto !important; } }
+
+/* 과거 비슷한 국면 */
+.hnow { grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); }
+.hchart { position: relative; height: 320px; margin-top: 8px; }
+.htbl td.num, .htbl th.num { text-align: right; font-family: var(--mono); white-space: nowrap; }
+.htbl td.up { color: var(--up); } .htbl td.down { color: var(--down); }
+.htbl tr.gap td { color: var(--muted); font-size: 12.5px; padding-top: 14px; border-bottom: 1px solid var(--line); }
+.wins { display: inline-block; min-width: 34px; text-align: center; font-family: var(--mono); font-size: 13px; padding: 1px 6px; border-radius: 4px; background: var(--chip); }
+.wins.w4, .wins.w9, .wins.w8, .wins.w7 { background: color-mix(in srgb, var(--up) 18%, transparent); color: var(--up); font-weight: 600; }
+.wins.w0 { background: color-mix(in srgb, var(--down) 16%, transparent); color: var(--down); font-weight: 600; }
+.hep li { align-items: flex-start; }
+@media (max-width: 680px) { .hchart { height: 260px; } }
