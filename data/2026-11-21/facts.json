@@ -5,7 +5,7 @@
   "end": "2026-11-20",
   "label": "11/16(월)~11/20(금)"
  },
- "generated_at": "2026-11-21T08:02+09:00",
+ "generated_at": "2026-11-21T17:10+09:00",
  "scoreboard": [
   {
    "label": "코스피",
@@ -7363,7 +7363,7 @@
    "2026-11-16T00:00:00+09:00",
    "2026-11-22T00:00:00+09:00"
   ],
-  "post_count": 72,
+  "post_count": 76,
   "guru_count": 8,
   "history_weeks": [
    "2026-09-26",
@@ -7379,11 +7379,30 @@
   "surge_enabled": false,
   "top": [
    {
+    "keyword": "AI",
+    "posts": 14,
+    "gurus": 5,
+    "avg_4w": 11.25,
+    "surge": 1.2,
+    "is_new": false,
+    "series": [
+     1,
+     0,
+     2,
+     1,
+     6,
+     5,
+     15,
+     19,
+     14
+    ]
+   },
+   {
     "keyword": "엔비디아",
-    "posts": 12,
+    "posts": 13,
     "gurus": 5,
     "avg_4w": 5.0,
-    "surge": 2.4,
+    "surge": 2.6,
     "is_new": false,
     "series": [
      0,
@@ -7394,7 +7413,7 @@
      0,
      5,
      15,
-     12
+     13
     ]
    },
    {
@@ -7418,10 +7437,10 @@
    },
    {
     "keyword": "반도체",
-    "posts": 12,
+    "posts": 13,
     "gurus": 4,
     "avg_4w": 9.25,
-    "surge": 1.3,
+    "surge": 1.4,
     "is_new": false,
     "series": [
      0,
@@ -7432,7 +7451,7 @@
      2,
      15,
      18,
-     12
+     13
     ]
    },
    {
@@ -7451,25 +7470,6 @@
      0,
      1,
      2,
-     12
-    ]
-   },
-   {
-    "keyword": "AI",
-    "posts": 12,
-    "gurus": 4,
-    "avg_4w": 11.25,
-    "surge": 1.1,
-    "is_new": false,
-    "series": [
-     1,
-     0,
-     2,
-     1,
-     6,
-     5,
-     15,
-     19,
      12
     ]
    },
@@ -7512,30 +7512,11 @@
     ]
    },
    {
-    "keyword": "상장",
-    "posts": 7,
-    "gurus": 4,
-    "avg_4w": 1.25,
-    "surge": 5.6,
-    "is_new": false,
-    "series": [
-     0,
-     0,
-     0,
-     1,
-     0,
-     1,
-     3,
-     1,
-     7
-    ]
-   },
-   {
     "keyword": "중국",
-    "posts": 8,
-    "gurus": 3,
+    "posts": 9,
+    "gurus": 4,
     "avg_4w": 2.0,
-    "surge": 4.0,
+    "surge": 4.5,
     "is_new": false,
     "series": [
      0,
@@ -7546,15 +7527,53 @@
      0,
      1,
      7,
+     9
+    ]
+   },
+   {
+    "keyword": "상장",
+    "posts": 8,
+    "gurus": 4,
+    "avg_4w": 1.25,
+    "surge": 6.4,
+    "is_new": false,
+    "series": [
+     0,
+     0,
+     0,
+     1,
+     0,
+     1,
+     3,
+     1,
      8
     ]
    },
    {
+    "keyword": "성공",
+    "posts": 4,
+    "gurus": 4,
+    "avg_4w": 1.5,
+    "surge": 2.7,
+    "is_new": false,
+    "series": [
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     3,
+     3,
+     4
+    ]
+   },
+   {
     "keyword": "앤트로픽",
-    "posts": 7,
+    "posts": 8,
     "gurus": 3,
     "avg_4w": 1.75,
-    "surge": 4.0,
+    "surge": 4.6,
     "is_new": false,
     "series": [
      0,
@@ -7565,6 +7584,25 @@
      0,
      5,
      2,
+     8
+    ]
+   },
+   {
+    "keyword": "내년",
+    "posts": 7,
+    "gurus": 3,
+    "avg_4w": 0.75,
+    "surge": 9.3,
+    "is_new": false,
+    "series": [
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     2,
+     1,
      7
     ]
    },
@@ -7604,6 +7642,25 @@
      0,
      6,
      6
+    ]
+   },
+   {
+    "keyword": "민주당",
+    "posts": 4,
+    "gurus": 3,
+    "avg_4w": 2.5,
+    "surge": 1.6,
+    "is_new": false,
+    "series": [
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     8,
+     2,
+     4
     ]
    },
    {
@@ -7664,7 +7721,7 @@
     ]
    },
    {
-    "keyword": "현금",
+    "keyword": "일반",
     "posts": 3,
     "gurus": 3,
     "avg_4w": 0.75,
@@ -7677,8 +7734,8 @@
      0,
      0,
      0,
-     2,
      1,
+     2,
      3
     ]
    },
@@ -7721,6 +7778,25 @@
     ]
    },
    {
+    "keyword": "현금",
+    "posts": 3,
+    "gurus": 3,
+    "avg_4w": 0.75,
+    "surge": 4.0,
+    "is_new": false,
+    "series": [
+     1,
+     0,
+     0,
+     0,
+     0,
+     0,
+     2,
+     1,
+     3
+    ]
+   },
+   {
     "keyword": "정상",
     "posts": 3,
     "gurus": 3,
@@ -7736,25 +7812,6 @@
      1,
      0,
      3,
-     3
-    ]
-   },
-   {
-    "keyword": "민주당",
-    "posts": 3,
-    "gurus": 3,
-    "avg_4w": 2.5,
-    "surge": 1.2,
-    "is_new": false,
-    "series": [
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     8,
-     2,
      3
     ]
    },
@@ -7794,63 +7851,6 @@
      0,
      3,
      3
-    ]
-   },
-   {
-    "keyword": "성공",
-    "posts": 3,
-    "gurus": 3,
-    "avg_4w": 1.5,
-    "surge": 2.0,
-    "is_new": false,
-    "series": [
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     3,
-     3,
-     3
-    ]
-   },
-   {
-    "keyword": "연준",
-    "posts": 3,
-    "gurus": 3,
-    "avg_4w": 0.25,
-    "surge": 12.0,
-    "is_new": false,
-    "series": [
-     0,
-     0,
-     0,
-     0,
-     1,
-     0,
-     0,
-     0,
-     3
-    ]
-   },
-   {
-    "keyword": "삼성전자",
-    "posts": 10,
-    "gurus": 2,
-    "avg_4w": 3.0,
-    "surge": 3.3,
-    "is_new": false,
-    "series": [
-     1,
-     0,
-     0,
-     2,
-     0,
-     0,
-     5,
-     7,
-     10
     ]
    }
   ],
@@ -7895,6 +7895,63 @@
     ]
    },
    {
+    "keyword": "매물",
+    "posts": 2,
+    "gurus": 2,
+    "avg_4w": 0.0,
+    "surge": null,
+    "is_new": true,
+    "series": [
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     2
+    ]
+   },
+   {
+    "keyword": "위치",
+    "posts": 2,
+    "gurus": 2,
+    "avg_4w": 0.0,
+    "surge": null,
+    "is_new": true,
+    "series": [
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     2
+    ]
+   },
+   {
+    "keyword": "코스",
+    "posts": 2,
+    "gurus": 2,
+    "avg_4w": 0.0,
+    "surge": null,
+    "is_new": true,
+    "series": [
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     2
+    ]
+   },
+   {
     "keyword": "토막",
     "posts": 2,
     "gurus": 2,
@@ -7933,7 +7990,7 @@
     ]
    },
    {
-    "keyword": "치료제",
+    "keyword": "덩어리",
     "posts": 2,
     "gurus": 2,
     "avg_4w": 0.0,
@@ -7952,7 +8009,7 @@
     ]
    },
    {
-    "keyword": "덩어리",
+    "keyword": "치료제",
     "posts": 2,
     "gurus": 2,
     "avg_4w": 0.0,
@@ -8026,66 +8083,67 @@
      0,
      2
     ]
-   },
-   {
-    "keyword": "ADR",
-    "posts": 2,
-    "gurus": 2,
-    "avg_4w": 0.0,
-    "surge": null,
-    "is_new": true,
-    "series": [
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     2
-    ]
-   },
-   {
-    "keyword": "콜레트",
-    "posts": 2,
-    "gurus": 2,
-    "avg_4w": 0.0,
-    "surge": null,
-    "is_new": true,
-    "series": [
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     2
-    ]
-   },
-   {
-    "keyword": "한중",
-    "posts": 2,
-    "gurus": 2,
-    "avg_4w": 0.0,
-    "surge": null,
-    "is_new": true,
-    "series": [
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     2
-    ]
    }
   ],
   "posts": [
+   {
+    "guru_id": "troilos",
+    "guru": "troilos",
+    "title": "“1조5천억 통째로 날아가나” 호남 반도체 예산에 걸린 ‘0원' 시나리오",
+    "url": "https://blog.naver.com/troilos/224485895338?fromRss=true&trackingCode=rss",
+    "published_at": "2026-11-21T13:03:19+09:00",
+    "keywords": [
+     "공장",
+     "내년",
+     "민주당",
+     "반도체",
+     "이름"
+    ]
+   },
+   {
+    "guru_id": "cr2875",
+    "guru": "cr2875",
+    "title": "고점에 들어온 투자",
+    "url": "https://blog.naver.com/cr2875/224485722108?fromRss=true&trackingCode=rss",
+    "published_at": "2026-11-21T10:07:47+09:00",
+    "keywords": [
+     "고점",
+     "분야",
+     "일반"
+    ]
+   },
+   {
+    "guru_id": "pokara61",
+    "guru": "pokara61",
+    "title": "나스닥 −5.3%, 엔비디아 회계조사까지.",
+    "url": "https://blog.naver.com/pokara61/224485694809?fromRss=true&trackingCode=rss",
+    "published_at": "2026-11-21T09:34:49+09:00",
+    "keywords": [
+     "AI",
+     "고점",
+     "낙폭",
+     "뉴욕",
+     "등락",
+     "상장",
+     "성공",
+     "악재",
+     "앤트로픽",
+     "엔비디아",
+     "지수"
+    ]
+   },
+   {
+    "guru_id": "tosoha1",
+    "guru": "tosoha1",
+    "title": "몇 개의 그래프들 - 화장품 수출액, ODM, 인터코스 3Q26실적",
+    "url": "https://blog.naver.com/tosoha1/224485276972?fromRss=true&trackingCode=rss",
+    "published_at": "2026-11-21T08:59:43+09:00",
+    "keywords": [
+     "AI",
+     "내년",
+     "중국"
+    ]
+   },
    {
     "guru_id": "ranto28",
     "guru": "메르(Mer)",
@@ -8093,10 +8151,6 @@
     "url": "https://blog.naver.com/ranto28/224485601967?fromRss=true&trackingCode=rss",
     "published_at": "2026-11-21T07:14:03+09:00",
     "keywords": [
-     "규칙",
-     "노력",
-     "대응",
-     "미장",
      "일반"
     ]
    },
@@ -8108,11 +8162,9 @@
     "published_at": "2026-11-21T07:00:54+09:00",
     "keywords": [
      "엔비디아",
-     "월요일",
      "일반",
      "장기",
      "충격",
-     "토막",
      "폭락",
      "현금"
     ]
@@ -8126,7 +8178,7 @@
     "keywords": [
      "DRAM",
      "SK",
-     "미장",
+     "등락",
      "반도체",
      "수급",
      "영업",
@@ -8168,7 +8220,6 @@
     "published_at": "2026-11-20T20:29:19+09:00",
     "keywords": [
      "금리",
-     "대응",
      "반도체",
      "센터",
      "수급",
@@ -8198,6 +8249,7 @@
      "AI",
      "SK",
      "금리",
+     "낙폭",
      "뉴욕",
      "반도체",
      "삼성전자",
@@ -8324,6 +8376,7 @@
     "url": "https://blog.naver.com/troilos/224483308499?fromRss=true&trackingCode=rss",
     "published_at": "2026-11-19T14:00:00+09:00",
     "keywords": [
+     "공장",
      "반도체",
      "삼성전자",
      "진짜"
@@ -8368,6 +8421,7 @@
     "published_at": "2026-11-19T12:41:17+09:00",
     "keywords": [
      "수급",
+     "이름",
      "하루"
     ]
    },
@@ -8415,6 +8469,7 @@
     "keywords": [
      "AI",
      "CEO",
+     "등락",
      "상장",
      "앤트로픽",
      "엔비디아",
@@ -8442,7 +8497,6 @@
     "url": "https://blog.naver.com/troilos/224482808594?fromRss=true&trackingCode=rss",
     "published_at": "2026-11-19T07:00:00+09:00",
     "keywords": [
-     "규칙",
      "나이",
      "진짜"
     ]
@@ -8482,6 +8536,8 @@
     "url": "https://blog.naver.com/pokara61/224482389771?fromRss=true&trackingCode=rss",
     "published_at": "2026-11-18T19:20:26+09:00",
     "keywords": [
+     "분야",
+     "이름",
      "중국"
     ]
    },
@@ -8681,6 +8737,7 @@
     "url": "https://blog.naver.com/pokara61/224480415245?fromRss=true&trackingCode=rss",
     "published_at": "2026-11-17T12:52:15+09:00",
     "keywords": [
+     "공장",
      "수출",
      "영업",
      "현금"
@@ -8736,6 +8793,7 @@
     "keywords": [
      "AI",
      "CEO",
+     "고점",
      "금리",
      "마이크론",
      "반도체",
@@ -8759,9 +8817,9 @@
      "DRAM",
      "SK",
      "금리",
+     "낙폭",
      "반도체",
      "앤트로픽",
-     "월요일",
      "하이닉스"
     ]
    },
@@ -8787,6 +8845,7 @@
     "keywords": [
      "AI",
      "SK",
+     "고점",
      "물가",
      "삼성전자",
      "센터",
@@ -8896,7 +8955,6 @@
      "요약",
      "인상",
      "중국",
-     "토막",
      "하이닉스"
     ]
    },
@@ -8952,9 +9010,7 @@
     "title": "훈육의 조건",
     "url": "https://blog.naver.com/cr2875/224478627310?fromRss=true&trackingCode=rss",
     "published_at": "2026-11-16T08:08:20+09:00",
-    "keywords": [
-     "노력"
-    ]
+    "keywords": []
    },
    {
     "guru_id": "troilos",
@@ -9017,7 +9073,7 @@
    "id": "kr_memory",
    "label": "메모리·AI 반도체",
    "market": "KR",
-   "posts": 11,
+   "posts": 12,
    "avg_4w": 19.8,
    "ret_4w_pct": -13.7,
    "stage": "침체",
@@ -9027,7 +9083,7 @@
    "id": "us_ai_semi",
    "label": "AI 반도체",
    "market": "US",
-   "posts": 9,
+   "posts": 10,
    "avg_4w": 8.5,
    "ret_4w_pct": -15.8,
    "stage": "침체",
@@ -9054,6 +9110,16 @@
    "under_radar": true
   },
   {
+   "id": "kr_defense",
+   "label": "방산",
+   "market": "KR",
+   "posts": 2,
+   "avg_4w": 0.8,
+   "ret_4w_pct": -18.8,
+   "stage": "침체",
+   "under_radar": true
+  },
+  {
    "id": "kr_bio",
    "label": "바이오",
    "market": "KR",
@@ -9070,16 +9136,6 @@
    "posts": 1,
    "avg_4w": 0.0,
    "ret_4w_pct": -13.4,
-   "stage": "침체",
-   "under_radar": false
-  },
-  {
-   "id": "kr_defense",
-   "label": "방산",
-   "market": "KR",
-   "posts": 1,
-   "avg_4w": 0.8,
-   "ret_4w_pct": -18.8,
    "stage": "침체",
    "under_radar": false
   },
@@ -9196,174 +9252,174 @@
  ],
  "news_mentions": [
   {
+   "keyword": "AI",
+   "this_week": 3456.4,
+   "estimated": true,
+   "last_week": null
+  },
+  {
    "keyword": "엔비디아",
-   "this_week": 1041.1,
+   "this_week": 831.1,
    "estimated": true,
    "last_week": null
   },
   {
    "keyword": "금리",
-   "this_week": 983.5,
+   "this_week": 766.9,
    "estimated": true,
    "last_week": null
   },
   {
    "keyword": "반도체",
-   "this_week": 1517.1,
+   "this_week": 1098.6,
    "estimated": true,
    "last_week": null
   },
   {
    "keyword": "수급",
-   "this_week": 1011.8,
-   "estimated": true,
-   "last_week": null
-  },
-  {
-   "keyword": "AI",
-   "this_week": 2306.5,
+   "this_week": 769.7,
    "estimated": true,
    "last_week": null
   },
   {
    "keyword": "하이닉스",
-   "this_week": 1010.3,
+   "this_week": 767.2,
    "estimated": true,
    "last_week": null
   },
   {
    "keyword": "SK",
-   "this_week": 1291.0,
-   "estimated": true,
-   "last_week": null
-  },
-  {
-   "keyword": "상장",
-   "this_week": 1244.1,
+   "this_week": 962.0,
    "estimated": true,
    "last_week": null
   },
   {
    "keyword": "중국",
-   "this_week": 1611.6,
+   "this_week": 17.3,
+   "estimated": false,
+   "last_week": 0.0
+  },
+  {
+   "keyword": "상장",
+   "this_week": 944.3,
+   "estimated": true,
+   "last_week": null
+  },
+  {
+   "keyword": "성공",
+   "this_week": 1157.5,
    "estimated": true,
    "last_week": null
   },
   {
    "keyword": "앤트로픽",
-   "this_week": 1053.0,
+   "this_week": 785.6,
    "estimated": true,
    "last_week": null
   },
   {
-   "keyword": "영업",
-   "this_week": 1426.3,
-   "estimated": true,
-   "last_week": null
-  },
-  {
-   "keyword": "젠슨 황",
-   "this_week": 495.4,
+   "keyword": "내년",
+   "this_week": 1980.3,
    "estimated": true,
    "last_week": null
   },
   {
    "keyword": "장비",
-   "this_week": 1463.8,
+   "this_week": 1018.2,
    "estimated": true,
    "last_week": null
   },
   {
    "keyword": "2차전지",
-   "this_week": 91.3,
+   "this_week": 86.1,
    "estimated": false,
-   "last_week": 78.0,
-   "change_pct": 17
+   "last_week": 77.4,
+   "change_pct": 11
   },
   {
    "keyword": "조선",
-   "this_week": 1096.0,
+   "this_week": 804.8,
    "estimated": true,
    "last_week": null
   },
   {
    "keyword": "방산",
-   "this_week": 400.0,
+   "this_week": 368.1,
    "estimated": true,
    "last_week": null
   },
   {
    "keyword": "원전",
-   "this_week": 297.0,
+   "this_week": 288.6,
    "estimated": true,
    "last_week": null
   },
   {
    "keyword": "전력",
-   "this_week": 1319.9,
+   "this_week": 1014.4,
    "estimated": true,
    "last_week": null
   },
   {
    "keyword": "바이오",
-   "this_week": 1126.7,
+   "this_week": 811.0,
    "estimated": true,
    "last_week": null
   },
   {
    "keyword": "로봇",
-   "this_week": 1089.2,
+   "this_week": 795.3,
    "estimated": true,
    "last_week": null
   },
   {
    "keyword": "백화점",
-   "this_week": 1135.5,
+   "this_week": 809.1,
    "estimated": true,
    "last_week": null
   },
   {
    "keyword": "광통신",
-   "this_week": 48.0,
+   "this_week": 45.5,
    "estimated": false,
    "last_week": 40.3,
-   "change_pct": 19
+   "change_pct": 13
   },
   {
    "keyword": "빅테크",
-   "this_week": 388.4,
+   "this_week": 371.6,
    "estimated": true,
    "last_week": null
   },
   {
    "keyword": "테슬라",
-   "this_week": 217.2,
+   "this_week": 204.9,
    "estimated": true,
    "last_week": null
   },
   {
    "keyword": "일라이릴리",
-   "this_week": 59.2,
+   "this_week": 58.6,
    "estimated": false,
    "last_week": 50.1,
-   "change_pct": 18
+   "change_pct": 17
   },
   {
    "keyword": "보안",
-   "this_week": 1114.2,
+   "this_week": 832.9,
    "estimated": true,
    "last_week": null
   },
   {
    "keyword": "백화점 매출",
-   "this_week": 120.7,
+   "this_week": 115.1,
    "estimated": false,
-   "last_week": 82.8,
-   "change_pct": 46
+   "last_week": 80.1,
+   "change_pct": 44
   },
   {
    "keyword": "소비 회복",
-   "this_week": 376.9,
+   "this_week": 343.0,
    "estimated": true,
    "last_week": null
   }
