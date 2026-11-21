@@ -340,5 +340,29 @@
   "why": "AI 클라우드 수요가 확인되며 마이크론 등 메모리·AI 칩주가 급등했다",
   "url": "https://stocktwits.com/news-articles/markets/equity/mu-amd-avgo-other-chip-stocks-surge-as-core-weave-earnings-reignite-ai-trade-nasdaq-100-futures-jump/cNGDYzjR9Bn",
   "v": 2
+ },
+ "SPX|2026-11-16": {
+  "title": "美 상무부, 5개국 AI칩 수출 허가제 도입",
+  "why": "엔비디아 등 AI칩 해외 판매가 막힐 수 있다는 우려에 반도체주가 끌어내렸다",
+  "url": "https://zdnet.co.kr/view/?no=20261117095135",
+  "v": 2
+ },
+ "SPX|2026-11-20": {
+  "title": "SEC, 엔비디아 회계 조사 중 로이터 보도",
+  "why": "시총 1위 엔비디아의 실적 신뢰가 흔들리자 AI·반도체 대형주 전반으로 매도가 번졌다",
+  "url": "https://www.fool.com/investing/2026/11/20/nvidia-stock-plunge-wipes-out-nearly-usd500-billion-in-one-day-as-sec-reportedly-probes-its-accounting/",
+  "v": 2
+ },
+ "NDX|2026-11-20": {
+  "title": "SEC, 엔비디아 회계 조사 중 로이터 보도",
+  "why": "비중 큰 엔비디아가 14% 빠지고 AI 투자 회수 의구심이 겹쳐 기술주가 함께 밀렸다",
+  "url": "https://www.fool.com/investing/2026/11/20/nvidia-stock-plunge-wipes-out-nearly-usd500-billion-in-one-day-as-sec-reportedly-probes-its-accounting/",
+  "v": 2
+ },
+ "SOX|2026-11-20": {
+  "title": "SEC, 엔비디아 회계 조사 중 로이터 보도",
+  "why": "AI칩 대장주의 회계 의혹에 마이크론·AMD·브로드컴까지 두 자릿수 하락이 번졌다",
+  "url": "https://www.fool.com/investing/2026/11/20/nvidia-stock-plunge-wipes-out-nearly-usd500-billion-in-one-day-as-sec-reportedly-probes-its-accounting/",
+  "v": 2
  }
 }

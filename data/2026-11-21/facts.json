@@ -5,7 +5,7 @@
   "end": "2026-11-20",
   "label": "11/16(월)~11/20(금)"
  },
- "generated_at": "2026-11-21T17:10+09:00",
+ "generated_at": "2026-11-21T17:17+09:00",
  "scoreboard": [
   {
    "label": "코스피",
@@ -27,49 +27,49 @@
    "label": "S&P500",
    "symbol": "^GSPC",
    "unit": "pt",
-   "value": 7175.83,
-   "as_of": "2026-11-19",
-   "change_pct": -5.1
+   "value": 6910.39,
+   "as_of": "2026-11-20",
+   "change_pct": -8.61
   },
   {
    "label": "나스닥",
    "symbol": "^IXIC",
    "unit": "pt",
-   "value": 23879.2,
-   "as_of": "2026-11-19",
-   "change_pct": -5.0
+   "value": 22617.73,
+   "as_of": "2026-11-20",
+   "change_pct": -10.02
   },
   {
    "label": "원/달러",
    "symbol": "USD/KRW",
    "unit": "원",
-   "value": 1330.4,
-   "as_of": "2026-11-19",
-   "change_pct": -0.25
+   "value": 1334.79,
+   "as_of": "2026-11-20",
+   "change_pct": 0.08
   },
   {
    "label": "미 10년물 금리",
    "symbol": "^TNX",
    "unit": "%",
-   "value": 5.05,
-   "as_of": "2026-11-19",
-   "change_bp": -10
+   "value": 4.91,
+   "as_of": "2026-11-20",
+   "change_bp": -24
   },
   {
    "label": "WTI 유가",
    "symbol": "CL=F",
    "unit": "$",
-   "value": 83.21,
-   "as_of": "2026-11-19",
-   "change_pct": -6.04
+   "value": 83.98,
+   "as_of": "2026-11-20",
+   "change_pct": -5.17
   },
   {
    "label": "금",
    "symbol": "GC=F",
    "unit": "$",
-   "value": 3685.5,
-   "as_of": "2026-11-19",
-   "change_pct": -5.17
+   "value": 3515.4,
+   "as_of": "2026-11-20",
+   "change_pct": -9.54
   }
  ],
  "index_events": {
@@ -736,7 +736,6 @@
     "market": "US",
     "symbol": "^GSPC",
     "dates": [
-     "2025-11-07",
      "2025-11-10",
      "2025-11-11",
      "2025-11-12",
@@ -995,10 +994,10 @@
      "2026-11-16",
      "2026-11-17",
      "2026-11-18",
-     "2026-11-19"
+     "2026-11-19",
+     "2026-11-20"
     ],
     "closes": [
-     6728.8,
      6832.43,
      6846.61,
      6850.92,
@@ -1257,10 +1256,11 @@
      7416.59,
      7340.53,
      7323.63,
-     7175.83
+     7175.83,
+     6910.39
     ],
-    "chg_3m_pct": -6.2,
-    "chg_1y_pct": 8.7,
+    "chg_3m_pct": -10.0,
+    "chg_1y_pct": 3.1,
     "candidates": [
      {
       "date": "2025-11-20",
@@ -1361,17 +1361,17 @@
       ]
      },
      {
-      "date": "2026-11-11",
-      "pct": 1.31,
-      "close": 7619.38,
+      "date": "2026-11-16",
+      "pct": -1.92,
+      "close": 7416.59,
       "windows": [
        "3m"
       ]
      },
      {
-      "date": "2026-11-19",
-      "pct": -2.02,
-      "close": 7175.83,
+      "date": "2026-11-20",
+      "pct": -3.7,
+      "close": 6910.39,
       "windows": [
        "3m",
        "1y"
@@ -1385,7 +1385,6 @@
     "market": "US",
     "symbol": "^IXIC",
     "dates": [
-     "2025-11-07",
      "2025-11-10",
      "2025-11-11",
      "2025-11-12",
@@ -1644,10 +1643,10 @@
      "2026-11-16",
      "2026-11-17",
      "2026-11-18",
-     "2026-11-19"
+     "2026-11-19",
+     "2026-11-20"
     ],
     "closes": [
-     23004.54,
      23527.17,
      23468.3,
      23406.46,
@@ -1906,10 +1905,11 @@
      24509.76,
      24328.38,
      24429.88,
-     23879.2
+     23879.2,
+     22617.73
     ],
-    "chg_3m_pct": -8.1,
-    "chg_1y_pct": 7.2,
+    "chg_3m_pct": -13.5,
+    "chg_1y_pct": -1.1,
     "candidates": [
      {
       "date": "2025-11-24",
@@ -1957,14 +1957,6 @@
       "close": 25122.18,
       "windows": [
        "1y"
-      ]
-     },
-     {
-      "date": "2026-08-27",
-      "pct": 1.57,
-      "close": 26541.35,
-      "windows": [
-       "3m"
       ]
      },
      {
@@ -2019,10 +2011,11 @@
       ]
      },
      {
-      "date": "2026-11-19",
-      "pct": -2.25,
-      "close": 23879.2,
+      "date": "2026-11-20",
+      "pct": -5.28,
+      "close": 22617.73,
       "windows": [
+       "3m",
        "1y"
       ]
      }
@@ -2034,7 +2027,6 @@
     "market": "US",
     "symbol": "^SOX",
     "dates": [
-     "2025-11-07",
      "2025-11-10",
      "2025-11-11",
      "2025-11-12",
@@ -2293,10 +2285,10 @@
      "2026-11-16",
      "2026-11-17",
      "2026-11-18",
-     "2026-11-19"
+     "2026-11-19",
+     "2026-11-20"
     ],
     "closes": [
-     6947.36,
      7156.95,
      6979.7,
      7082.13,
@@ -2555,19 +2547,12 @@
      9610.65,
      9642.88,
      9652.8,
-     9419.72
+     9419.72,
+     8408.59
     ],
-    "chg_3m_pct": -17.5,
-    "chg_1y_pct": 47.0,
+    "chg_3m_pct": -27.4,
+    "chg_1y_pct": 25.4,
     "candidates": [
-     {
-      "date": "2025-12-12",
-      "pct": -5.1,
-      "close": 7033.57,
-      "windows": [
-       "1y"
-      ]
-     },
      {
       "date": "2026-02-06",
       "pct": 5.7,
@@ -2626,14 +2611,6 @@
       ]
      },
      {
-      "date": "2026-09-21",
-      "pct": 4.29,
-      "close": 12433.17,
-      "windows": [
-       "3m"
-      ]
-     },
-     {
       "date": "2026-10-14",
       "pct": -4.3,
       "close": 11684.38,
@@ -2673,6 +2650,15 @@
       "close": 10564.11,
       "windows": [
        "3m"
+      ]
+     },
+     {
+      "date": "2026-11-20",
+      "pct": -10.73,
+      "close": 8408.59,
+      "windows": [
+       "3m",
+       "1y"
       ]
      }
     ]
@@ -3090,7 +3076,7 @@
      129.2,
      125.7,
      128.9,
-     122.3
+     117.8
     ]
    }
   },
@@ -5916,24 +5902,24 @@
      386.5,
      323.9,
      361.9,
-     327.0
+     284.2
     ],
     "stage": {
      "stage": "침체",
-     "drawdown_pct": -29.7,
-     "ret_4w_pct": -15.8,
-     "ret_12w_pct": -17.7,
-     "rebound_pct": 1.0,
+     "drawdown_pct": -38.9,
+     "ret_4w_pct": -26.9,
+     "ret_12w_pct": -28.5,
+     "rebound_pct": 0.0,
      "peak_idx": 91,
-     "trough_idx": 96,
+     "trough_idx": 98,
      "above_ma10": false,
-     "ma10_slope_pct": -5.7,
-     "ma30_slope_pct": 3.7
+     "ma10_slope_pct": -6.7,
+     "ma30_slope_pct": 3.3
     },
     "prev_stage": "꺾임",
     "stage_changed": true,
-    "ret_1w_pct": -9.6,
-    "rs_12w_pp": -10.8
+    "ret_1w_pct": -21.5,
+    "rs_12w_pp": -18.2
    },
    {
     "market": "US",
@@ -6155,24 +6141,24 @@
      125.9,
      128.3,
      132.0,
-     125.4
+     121.3
     ],
     "stage": {
-     "stage": "상승",
-     "drawdown_pct": -9.8,
-     "ret_4w_pct": -5.2,
-     "ret_12w_pct": -4.8,
+     "stage": "꺾임",
+     "drawdown_pct": -12.8,
+     "ret_4w_pct": -8.3,
+     "ret_12w_pct": -7.9,
      "rebound_pct": 0.0,
      "peak_idx": 92,
      "trough_idx": 98,
      "above_ma10": false,
-     "ma10_slope_pct": -0.8,
-     "ma30_slope_pct": 0.9
+     "ma10_slope_pct": -1.1,
+     "ma30_slope_pct": 0.8
     },
     "prev_stage": "상승",
-    "stage_changed": false,
-    "ret_1w_pct": -5.0,
-    "rs_12w_pp": 2.2
+    "stage_changed": true,
+    "ret_1w_pct": -8.1,
+    "rs_12w_pp": 2.4
    },
    {
     "market": "US",
@@ -6392,24 +6378,24 @@
      151.9,
      134.1,
      144.6,
-     134.7
+     124.4
     ],
     "stage": {
      "stage": "침체",
-     "drawdown_pct": -34.6,
-     "ret_4w_pct": -4.8,
-     "ret_12w_pct": -17.6,
-     "rebound_pct": 0.5,
+     "drawdown_pct": -39.6,
+     "ret_4w_pct": -12.1,
+     "ret_12w_pct": -23.9,
+     "rebound_pct": 0.0,
      "peak_idx": 68,
-     "trough_idx": 96,
+     "trough_idx": 98,
      "above_ma10": false,
-     "ma10_slope_pct": -6.7,
-     "ma30_slope_pct": -3.7
+     "ma10_slope_pct": -7.3,
+     "ma30_slope_pct": -3.9
     },
     "prev_stage": "침체",
     "stage_changed": false,
-    "ret_1w_pct": -6.8,
-    "rs_12w_pp": -10.7
+    "ret_1w_pct": -14.0,
+    "rs_12w_pp": -13.6
    },
    {
     "market": "US",
@@ -6627,24 +6613,24 @@
      102.4,
      105.7,
      102.6,
-     94.7
+     88.5
     ],
     "stage": {
      "stage": "침체",
-     "drawdown_pct": -40.0,
-     "ret_4w_pct": -5.5,
-     "ret_12w_pct": -25.0,
+     "drawdown_pct": -43.9,
+     "ret_4w_pct": -11.7,
+     "ret_12w_pct": -29.9,
      "rebound_pct": 0.0,
      "peak_idx": 67,
      "trough_idx": 98,
      "above_ma10": false,
-     "ma10_slope_pct": -8.2,
-     "ma30_slope_pct": -4.7
+     "ma10_slope_pct": -8.7,
+     "ma30_slope_pct": -4.9
     },
     "prev_stage": "침체",
     "stage_changed": false,
-    "ret_1w_pct": -7.7,
-    "rs_12w_pp": -18.0
+    "ret_1w_pct": -13.8,
+    "rs_12w_pp": -19.5
    },
    {
     "market": "US",
@@ -6864,24 +6850,24 @@
      399.6,
      299.8,
      335.6,
-     311.4
+     272.6
     ],
     "stage": {
      "stage": "침체",
-     "drawdown_pct": -43.3,
-     "ret_4w_pct": -18.1,
-     "ret_12w_pct": -31.7,
-     "rebound_pct": 3.9,
+     "drawdown_pct": -50.3,
+     "ret_4w_pct": -28.3,
+     "ret_12w_pct": -40.2,
+     "rebound_pct": 0.0,
      "peak_idx": 72,
-     "trough_idx": 96,
+     "trough_idx": 98,
      "above_ma10": false,
-     "ma10_slope_pct": -10.3,
-     "ma30_slope_pct": -4.1
+     "ma10_slope_pct": -11.2,
+     "ma30_slope_pct": -4.4
     },
     "prev_stage": "침체",
     "stage_changed": false,
-    "ret_1w_pct": -7.2,
-    "rs_12w_pp": -24.7
+    "ret_1w_pct": -18.8,
+    "rs_12w_pp": -29.8
    },
    {
     "market": "US",
@@ -7101,13 +7087,13 @@
      138.4,
      135.1,
      139.2,
-     132.2
+     131.4
     ],
     "stage": {
      "stage": "상승",
-     "drawdown_pct": -5.1,
-     "ret_4w_pct": 4.1,
-     "ret_12w_pct": 4.8,
+     "drawdown_pct": -5.6,
+     "ret_4w_pct": 3.5,
+     "ret_12w_pct": 4.3,
      "rebound_pct": 0.0,
      "peak_idx": 97,
      "trough_idx": 98,
@@ -7117,8 +7103,8 @@
     },
     "prev_stage": "상승",
     "stage_changed": false,
-    "ret_1w_pct": -5.1,
-    "rs_12w_pp": 11.8
+    "ret_1w_pct": -5.6,
+    "rs_12w_pp": 14.6
    },
    {
     "market": "US",
@@ -7337,24 +7323,24 @@
      203.0,
      179.3,
      190.2,
-     200.5
+     187.4
     ],
     "stage": {
      "stage": "꺾임",
-     "drawdown_pct": -16.7,
-     "ret_4w_pct": -11.1,
-     "ret_12w_pct": 0.2,
-     "rebound_pct": 11.8,
+     "drawdown_pct": -22.1,
+     "ret_4w_pct": -16.8,
+     "ret_12w_pct": -6.3,
+     "rebound_pct": 4.5,
      "peak_idx": 92,
      "trough_idx": 96,
      "above_ma10": false,
-     "ma10_slope_pct": 0.4,
-     "ma30_slope_pct": 6.6
+     "ma10_slope_pct": -0.3,
+     "ma30_slope_pct": 6.3
     },
     "prev_stage": "꺾임",
     "stage_changed": false,
-    "ret_1w_pct": 5.4,
-    "rs_12w_pp": 7.1
+    "ret_1w_pct": -1.5,
+    "rs_12w_pp": 4.1
    }
   ]
  },
@@ -7474,25 +7460,6 @@
     ]
    },
    {
-    "keyword": "하이닉스",
-    "posts": 11,
-    "gurus": 4,
-    "avg_4w": 3.25,
-    "surge": 3.4,
-    "is_new": false,
-    "series": [
-     0,
-     0,
-     0,
-     1,
-     0,
-     0,
-     7,
-     6,
-     11
-    ]
-   },
-   {
     "keyword": "SK",
     "posts": 11,
     "gurus": 4,
@@ -7507,6 +7474,25 @@
      0,
      0,
      6,
+     6,
+     11
+    ]
+   },
+   {
+    "keyword": "하이닉스",
+    "posts": 11,
+    "gurus": 4,
+    "avg_4w": 3.25,
+    "surge": 3.4,
+    "is_new": false,
+    "series": [
+     0,
+     0,
+     0,
+     1,
+     0,
+     0,
+     7,
      6,
      11
     ]
@@ -7740,6 +7726,25 @@
     ]
    },
    {
+    "keyword": "현금",
+    "posts": 3,
+    "gurus": 3,
+    "avg_4w": 0.75,
+    "surge": 4.0,
+    "is_new": false,
+    "series": [
+     1,
+     0,
+     0,
+     0,
+     0,
+     0,
+     2,
+     1,
+     3
+    ]
+   },
+   {
     "keyword": "장기",
     "posts": 3,
     "gurus": 3,
@@ -7774,25 +7779,6 @@
      0,
      1,
      4,
-     3
-    ]
-   },
-   {
-    "keyword": "현금",
-    "posts": 3,
-    "gurus": 3,
-    "avg_4w": 0.75,
-    "surge": 4.0,
-    "is_new": false,
-    "series": [
-     1,
-     0,
-     0,
-     0,
-     0,
-     0,
-     2,
-     1,
      3
     ]
    },
@@ -7914,7 +7900,7 @@
     ]
    },
    {
-    "keyword": "위치",
+    "keyword": "코스",
     "posts": 2,
     "gurus": 2,
     "avg_4w": 0.0,
@@ -7933,7 +7919,7 @@
     ]
    },
    {
-    "keyword": "코스",
+    "keyword": "위치",
     "posts": 2,
     "gurus": 2,
     "avg_4w": 0.0,
@@ -8108,7 +8094,7 @@
     "published_at": "2026-11-21T10:07:47+09:00",
     "keywords": [
      "고점",
-     "분야",
+     "실패",
      "일반"
     ]
    },
@@ -8536,7 +8522,6 @@
     "url": "https://blog.naver.com/pokara61/224482389771?fromRss=true&trackingCode=rss",
     "published_at": "2026-11-18T19:20:26+09:00",
     "keywords": [
-     "분야",
      "이름",
      "중국"
     ]
@@ -8693,6 +8678,7 @@
     "keywords": [
      "CEO",
      "삼성전자",
+     "실패",
      "엔비디아",
      "의혹",
      "이사회",
@@ -9085,7 +9071,7 @@
    "market": "US",
    "posts": 10,
    "avg_4w": 8.5,
-   "ret_4w_pct": -15.8,
+   "ret_4w_pct": -26.9,
    "stage": "침체",
    "under_radar": false
   },
@@ -9105,7 +9091,7 @@
    "market": "US",
    "posts": 3,
    "avg_4w": 1.8,
-   "ret_4w_pct": -4.8,
+   "ret_4w_pct": -12.1,
    "stage": "침체",
    "under_radar": true
   },
@@ -9155,7 +9141,7 @@
    "market": "US",
    "posts": 1,
    "avg_4w": 0.2,
-   "ret_4w_pct": 4.1,
+   "ret_4w_pct": 3.5,
    "stage": "상승",
    "under_radar": false
   },
@@ -9215,8 +9201,8 @@
    "market": "US",
    "posts": 0,
    "avg_4w": 3.8,
-   "ret_4w_pct": -5.2,
-   "stage": "상승",
+   "ret_4w_pct": -8.3,
+   "stage": "꺾임",
    "under_radar": false
   },
   {
@@ -9225,7 +9211,7 @@
    "market": "US",
    "posts": 0,
    "avg_4w": 0.2,
-   "ret_4w_pct": -5.5,
+   "ret_4w_pct": -11.7,
    "stage": "침체",
    "under_radar": false
   },
@@ -9235,7 +9221,7 @@
    "market": "US",
    "posts": 0,
    "avg_4w": 0.0,
-   "ret_4w_pct": -18.1,
+   "ret_4w_pct": -28.3,
    "stage": "침체",
    "under_radar": false
   },
@@ -9245,7 +9231,7 @@
    "market": "US",
    "posts": 0,
    "avg_4w": 0.8,
-   "ret_4w_pct": -11.1,
+   "ret_4w_pct": -16.8,
    "stage": "꺾임",
    "under_radar": false
   }
@@ -9253,55 +9239,55 @@
  "news_mentions": [
   {
    "keyword": "AI",
-   "this_week": 3456.4,
+   "this_week": 3465.0,
    "estimated": true,
    "last_week": null
   },
   {
    "keyword": "엔비디아",
-   "this_week": 831.1,
+   "this_week": 828.7,
    "estimated": true,
    "last_week": null
   },
   {
    "keyword": "금리",
-   "this_week": 766.9,
+   "this_week": 764.1,
    "estimated": true,
    "last_week": null
   },
   {
    "keyword": "반도체",
-   "this_week": 1098.6,
+   "this_week": 1093.6,
    "estimated": true,
    "last_week": null
   },
   {
    "keyword": "수급",
-   "this_week": 769.7,
-   "estimated": true,
-   "last_week": null
-  },
-  {
-   "keyword": "하이닉스",
-   "this_week": 767.2,
+   "this_week": 766.9,
    "estimated": true,
    "last_week": null
   },
   {
    "keyword": "SK",
-   "this_week": 962.0,
+   "this_week": 957.5,
+   "estimated": true,
+   "last_week": null
+  },
+  {
+   "keyword": "하이닉스",
+   "this_week": 764.8,
    "estimated": true,
    "last_week": null
   },
   {
    "keyword": "중국",
-   "this_week": 17.3,
-   "estimated": false,
-   "last_week": 0.0
+   "this_week": 1543.5,
+   "estimated": true,
+   "last_week": null
   },
   {
    "keyword": "상장",
-   "this_week": 944.3,
+   "this_week": 939.9,
    "estimated": true,
    "last_week": null
   },
@@ -9313,68 +9299,68 @@
   },
   {
    "keyword": "앤트로픽",
-   "this_week": 785.6,
+   "this_week": 782.6,
    "estimated": true,
    "last_week": null
   },
   {
    "keyword": "내년",
-   "this_week": 1980.3,
+   "this_week": 1985.7,
    "estimated": true,
    "last_week": null
   },
   {
    "keyword": "장비",
-   "this_week": 1018.2,
+   "this_week": 1013.9,
    "estimated": true,
    "last_week": null
   },
   {
    "keyword": "2차전지",
-   "this_week": 86.1,
+   "this_week": 86.0,
    "estimated": false,
    "last_week": 77.4,
    "change_pct": 11
   },
   {
    "keyword": "조선",
-   "this_week": 804.8,
+   "this_week": 801.6,
    "estimated": true,
    "last_week": null
   },
   {
    "keyword": "방산",
-   "this_week": 368.1,
+   "this_week": 367.4,
    "estimated": true,
    "last_week": null
   },
   {
    "keyword": "원전",
-   "this_week": 288.6,
+   "this_week": 288.2,
    "estimated": true,
    "last_week": null
   },
   {
    "keyword": "전력",
-   "this_week": 1014.4,
+   "this_week": 1010.2,
    "estimated": true,
    "last_week": null
   },
   {
    "keyword": "바이오",
-   "this_week": 811.0,
+   "this_week": 807.8,
    "estimated": true,
    "last_week": null
   },
   {
    "keyword": "로봇",
-   "this_week": 795.3,
+   "this_week": 792.2,
    "estimated": true,
    "last_week": null
   },
   {
    "keyword": "백화점",
-   "this_week": 809.1,
+   "this_week": 804.6,
    "estimated": true,
    "last_week": null
   },
@@ -9387,13 +9373,13 @@
   },
   {
    "keyword": "빅테크",
-   "this_week": 371.6,
+   "this_week": 371.0,
    "estimated": true,
    "last_week": null
   },
   {
    "keyword": "테슬라",
-   "this_week": 204.9,
+   "this_week": 204.8,
    "estimated": true,
    "last_week": null
   },
@@ -9406,20 +9392,20 @@
   },
   {
    "keyword": "보안",
-   "this_week": 832.9,
+   "this_week": 831.4,
    "estimated": true,
    "last_week": null
   },
   {
    "keyword": "백화점 매출",
-   "this_week": 115.1,
+   "this_week": 115.0,
    "estimated": false,
    "last_week": 80.1,
    "change_pct": 44
   },
   {
    "keyword": "소비 회복",
-   "this_week": 343.0,
+   "this_week": 342.4,
    "estimated": true,
    "last_week": null
   }
@@ -14913,11 +14899,11 @@
     29
    ],
    [
-    "고객사",
+    "기반",
     25
    ],
    [
-    "기반",
+    "고객사",
     25
    ],
    [
