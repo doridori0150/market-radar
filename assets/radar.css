@@ -121,7 +121,21 @@ p { margin: 0 0 10px; }
 .evcard .h b { color: var(--up); } .evcard.down .h b { color: var(--down); }
 .evcard .no { margin-right: 4px; font-family: var(--font); }
 .evcard .t { font-weight: 600; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
-a.evcard:hover { border-color: var(--accent); }
+a.evcard:hover, button.evcard:hover { border-color: var(--accent); }
+button.evcard { font: inherit; color: inherit; text-align: left; cursor: pointer; }
+.evcard[aria-pressed="true"] { border-color: var(--accent); box-shadow: 0 0 0 2px var(--accent); }
+.ixdetail { margin-top: 12px; padding: 14px 16px; border: 1px solid var(--line); border-radius: 10px; background: var(--surface); display: grid; gap: 6px; }
+.ixdetail .h { font-family: var(--mono); font-size: 13px; color: var(--muted); }
+.ixdetail .h b.up { color: var(--up); } .ixdetail .h b.down { color: var(--down); }
+.ixdetail .no { margin-right: 6px; font-family: var(--font); color: var(--accent); }
+.ixdetail .t { font-weight: 600; font-size: 16.5px; }
+.ixdetail .why { margin: 0; color: var(--muted); font-size: 15px; }
+.ixdetail .go { justify-self: start; font-size: 14px; color: var(--accent); }
+.brief { margin-top: 8px; padding: 8px 12px; border-radius: 8px; background: var(--chip); font-size: 14.5px; line-height: 1.65; }
+.brief summary { cursor: pointer; color: var(--accent); font-size: 13.5px; }
+.brief .lbl { color: var(--accent); font-size: 13px; }
+.brief p { margin: 4px 0 0; } .brief .bt { font-weight: 600; }
+.brief a { font-size: 13.5px; color: var(--accent); }
 .ixlane.bottom .evcard { margin-top: 6px; }
 .ixlane.top .evcard { margin-bottom: 6px; }
 .ixlist { list-style: none; margin: 12px 0 0; padding: 0; display: none; gap: 10px; }

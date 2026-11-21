@@ -1,0 +1,122 @@
+{
+ "https://www.fool.com/coverage/stock-market-today/2026/11/20/stock-market-today-nov-20-nvidia-s-usd2-5-trillion-rout-deepens-as-sec-accounting-probe-adds-to-wall-street-s-ai-sell-off/": {
+  "source": "The Motley Fool",
+  "title_ko": "엔비디아 시총 2.5조 달러 증발, SEC 회계조사 악재",
+  "summary_ko": "11월 20일 금요일 엔비디아 주가는 14.01% 떨어진 125.53달러로 마감했습니다. 최근 고점과 비교하면 시가총액 약 2.5조 달러가 사라졌습니다. SEC가 회계를 조사한다는 보도까지 나오며 반도체 전반으로 AI 고평가 우려가 번졌고, 같은 날 S&P 500은 3.82%, 나스닥은 5.13% 내렸습니다."
+ },
+ "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-19-dow-sp-500-nasdaq-anthropic-nvidia-141644188.html": {
+  "source": "Yahoo Finance",
+  "title_ko": "AI 매도세에 나스닥 올해 상승분 모두 반납",
+  "summary_ko": "금요일 미국 증시는 AI 관련 불안이 이어지며 급락했습니다. 엔비디아가 약 14% 떨어지는 등 반도체주가 하락을 이끌었습니다. S&P 500과 다우는 고점 대비 10% 넘게 빠져 조정 국면에 들어섰고, 이번 주에만 나스닥은 약 10%, 엔비디아는 약 23% 내렸습니다."
+ },
+ "https://keyt.com/politics/cnn-us-politics/2026/11/16/trump-administration-tightens-restrictions-on-flow-of-ai-chips-ahead-of-china-trip/": {
+  "source": "CNN",
+  "title_ko": "트럼프 행정부, 방중 앞두고 AI 칩 통제 강화",
+  "summary_ko": "미국 상무부가 11월 16일 새 규정을 발표했습니다. 중국·이란·러시아처럼 무기 금수 대상인 나라의 기업에 대규모 컴퓨팅을 제공하는 데이터센터는 AI 칩을 받기 어려워집니다. 트럼프 대통령의 방중을 앞두고 나온 조치로, 중국 외교부는 이를 경제적 강압이라며 반발했습니다."
+ },
+ "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-16-dow-sp-500-nasdaq-nvidia-oil-091631084.html": {
+  "source": "Yahoo Finance",
+  "title_ko": "엔비디아 주도 반도체 약세, 나스닥 2.5% 하락",
+  "summary_ko": "11월 16일 월요일 미국 증시는 엔비디아를 중심으로 반도체주가 약세를 보이며 하락했습니다. 다우는 1.4%, S&P 500은 약 1.9%, 나스닥은 2.5% 내렸고, 엔비디아는 약 4% 떨어졌습니다. 이번 주 엔비디아 실적 발표와 앤트로픽 상장을 앞두고 시장의 경계심이 커졌습니다."
+ },
+ "https://www.aljazeera.com/economy/2026/11/19/anthropic-starts-trading-in-the-us-after-blockbuster-ipo": {
+  "source": "Al Jazeera",
+  "title_ko": "앤트로픽, 역대급 IPO로 나스닥 거래 시작",
+  "summary_ko": "앤트로픽이 11월 19일 'ANT'라는 종목 코드로 나스닥에 상장했습니다. 기사는 이번 상장을 810억 달러 규모로, 미국 역사상 가장 큰 IPO라고 소개합니다. 주가는 장중 111.50달러까지 올랐다가 공모가보다 약 17% 높은 97.17달러로 마감했고, 같은 날 나스닥은 2.2% 내렸습니다."
+ },
+ "https://fool.com/investing/2026/11/19/why-amd-stock-was-plunging-on-thursday": {
+  "source": "The Motley Fool",
+  "title_ko": "AMD, 중국 우회수출 의혹 공매도 보고서에 급락",
+  "summary_ko": "공매도 투자사 헌터브룩 캐피털이 보고서를 내자 AMD 주가가 하락했습니다. 보고서는 AMD 칩이 미국 제재 대상인 중국 기업으로 흘러갔다고 주장합니다. 기사에 따르면 AMD는 오전 11시 16분(미 동부 시간) 기준 6.8% 내렸고, 2025년 매출의 22.4%가 중국과 홍콩에서 나왔습니다."
+ },
+ "https://www.newkerala.com/news/a/us-tightens-ai-chip-export-restrictions-ahead-trumps-729.htm": {
+  "source": "NewKerala (ANI)",
+  "title_ko": "미국, 트럼프·시진핑 회담 앞두고 AI 칩 수출 규제",
+  "summary_ko": "미국 상무부가 무기 금수 대상국 기업에 대규모 컴퓨팅을 제공하는 데이터센터를 겨냥해 첨단 AI 칩 수출 규제를 강화했습니다. 이번 주 트럼프·시진핑 회담 직전에 나온 조치이며, 기사는 중국이 회담이 끝난 뒤 대응할 수 있다고 봅니다. 규제가 실제로 효과를 내려면 상무부가 얼마나 철저히 집행하느냐가 관건이라는 분석입니다."
+ },
+ "https://www.thestar.com.my/business/business-news/2026/11/17/us-yields-ease-as-oil-prices-drop-3": {
+  "source": "The Star (Reuters)",
+  "title_ko": "유가 3% 하락에 미 국채금리 진정",
+  "summary_ko": "호르무즈 해협을 통한 원유 공급이 회복될 조짐을 보이며 유가가 3% 넘게 떨어졌고, 미국 국채 금리도 함께 내려갔습니다. 지난주 금리가 크게 오른 뒤 인플레이션 걱정이 조금 줄었습니다. 시장은 여전히 12월 연준이 0.25%p 금리를 올릴 가능성을 높게 보고 있으며, 10년물 금리는 5.121%였습니다."
+ },
+ "https://krdo.com/money/cnn-business-consumer/2026/10/14/ai-stocks-drop-after-hot-inflation-report-fuels-bets-for-rate-hikes/": {
+  "source": "CNN",
+  "title_ko": "물가 쇼크에 AI주 급락, 금리 인상 전망 확대",
+  "summary_ko": "10월 14일 물가 지표가 예상보다 높게 나오면서 연준이 금리를 더 올릴 것이라는 전망이 커졌습니다. 이 영향으로 S&P 500은 1.11%, 나스닥은 1.88% 내렸고, 반도체 지수는 4.3% 떨어졌습니다. 금리가 높아지면 AI 데이터센터 투자 부담이 커진다는 우려가 기술주에 압박이 됐습니다."
+ },
+ "https://www.semafor.com/article/01/20/2026/stocks-tumble-on-uncertainty-over-trumps-greenland-threats": {
+  "source": "Semafor",
+  "title_ko": "그린란드 관세 위협에 미 증시 급락",
+  "summary_ko": "1월 20일 미국 증시는 트럼프 대통령의 그린란드 확보 시도로 미국과 유럽 사이 긴장이 높아지면서 지난해 10월 이후 가장 크게 떨어졌습니다. 관세를 영토 확보 수단으로 쓰는 일은 전례가 없어 파장을 가늠하기 어렵다는 분석이 나왔습니다. 유럽이 보복 관세로 맞서면 미국과 유럽 모두 성장이 둔화될 수 있다는 지적도 함께 소개됐습니다."
+ },
+ "https://fortune.com/2026/02/06/stock-market-today-dow-50000-chips-airlines-rebound-gold-silver-bitcoin/": {
+  "source": "Fortune (AP)",
+  "title_ko": "다우 사상 첫 5만 돌파, 칩·항공주 급반등",
+  "summary_ko": "2월 6일 다우 지수가 1,206포인트 올라 처음으로 5만 선을 넘었습니다. 반도체주와 항공주가 반등을 이끌었고, 엔비디아는 7.8% 올랐습니다. 비트코인은 7만 달러 위로 회복했고, 금은 1.8% 오른 온스당 4,979.80달러에 마감했습니다."
+ },
+ "https://www.fortune.com/2026/03/12/oil-100-barrel-iran-war-stocks-sink": {
+  "source": "Fortune (AP)",
+  "title_ko": "이란 전쟁 장기화에 유가 100달러, 증시 하락",
+  "summary_ko": "이란 전쟁이 끝날 기미를 보이지 않자 브렌트유가 7.9% 뛴 99.25달러를 기록했고, 장중 한때 101.59달러까지 올랐습니다. 이 여파로 S&P 500은 1.1%, 나스닥은 1.4% 내렸습니다. 10년물 국채 금리는 4.24%로 올랐고, 물가 부담 때문에 금리 인하가 늦어질 것이라는 걱정도 커졌습니다."
+ },
+ "https://www.bnnbloomberg.ca/markets/dow-jones/2026/03/31/the-dow-surges-as-many-as-1100-points-as-wall-street-recovers-a-chunk-of-its-wartime-losses/": {
+  "source": "BNN Bloomberg (AP)",
+  "title_ko": "전쟁 종결 기대에 다우 1,100포인트 급등",
+  "summary_ko": "3월 31일 전쟁이 끝날 수 있다는 기대가 퍼지며 미국 증시가 크게 반등했습니다. 다우는 1,125.37포인트 오른 46,341.51로 마감했고, S&P 500은 2.9% 올랐습니다. 브렌트유는 3.2% 내린 103.97달러였고, 10년물 금리는 4.31%로 떨어졌습니다."
+ },
+ "https://www.fortune.com/2026/06/05/tech-stocks-market-bloodbath-fed-rate-hikes-jobs-report-ai-fueled-chip-boom/": {
+  "source": "Fortune",
+  "title_ko": "AI 우려·금리 인상 공포에 기술주 폭락",
+  "summary_ko": "6월 5일 나스닥이 4% 떨어져 2025년 4월 이후 가장 큰 하락을 기록했고, S&P 500은 2.6% 내렸습니다. 브로드컴이 내놓은 전망이 실망스러웠고, 고용이 17만 2,000명 늘어 예상보다 강하게 나오면서 연준의 금리 인상 우려가 커졌습니다. 10년물 국채 금리는 4.532%로 올랐습니다."
+ },
+ "https://www.kitco.com/news/off-the-wire/2026-09-21/nasdaq-notches-record-high-close-ai-optimism-reignites-and-treasury": {
+  "source": "Reuters (Kitco)",
+  "title_ko": "AI 기대 되살아나며 나스닥 사상 최고 마감",
+  "summary_ko": "9월 21일 AMD 등 AI 대형주가 강세를 보이면서 나스닥이 2.26% 오른 27,122.09로 사상 최고치에 마감했습니다. S&P 500도 1.49% 오른 7,764.70을 기록했습니다. 브렌트유는 100달러 아래로 내려왔고 10년물 국채 금리도 5% 밑으로 떨어졌습니다."
+ },
+ "https://aljazeera.com/economy/2026/10/23/us-tech-stocks-tumble-as-investors-fret-over-ai-spending": {
+  "source": "Al Jazeera",
+  "title_ko": "AI 투자비 걱정에 미국 기술주 급락",
+  "summary_ko": "메타가 2026년 설비투자 전망을 1,350억~1,450억 달러로 올리자 주가가 7% 가까이 떨어졌고, 나스닥은 2.6% 하락해 6월 5일 이후 가장 크게 내렸습니다. 아마존(-4.6%), 엔비디아(-4.4%), 인텔·AMD(약 -8%)도 함께 밀렸고 S&P 500은 1.2% 내렸습니다. 브렌트유는 배럴당 114.20달러를 넘어 5월 이후 최고치를 기록했습니다."
+ },
+ "https://finviz.com/news/412405/intel-shares-plunge-25-as-weak-fourth-quarter-outlook-overshadows-strong-q3-earnings": {
+  "source": "Finviz",
+  "title_ko": "인텔, 3분기 호실적에도 약한 전망에 25% 급락",
+  "summary_ko": "인텔은 3분기 매출이 1년 전보다 21% 늘어난 165억 달러, 조정 주당순이익 0.52달러로 예상을 웃돌았고, 데이터센터·AI 매출은 78% 늘어난 73억 달러였습니다. 하지만 4분기 매출 전망(150억~160억 달러)과 주당순이익 전망(0.25달러)이 시장 기대(170.8억 달러, 0.44달러)에 크게 못 미쳤습니다. 조정 매출총이익률도 44.1%에서 약 38%로 낮아질 것으로 보면서 개장 전 거래에서 주가가 25% 떨어졌습니다."
+ },
+ "https://www.ibtimes.com/semiconductor-stocks-plunge-ai-spending-concerns-3809509": {
+  "source": "International Business Times",
+  "title_ko": "반도체 폭락일, 가장 많이 떨어진 종목들",
+  "summary_ko": "중간선거 직후 목요일, 필라델피아 반도체지수가 12.25% 떨어져 2020년 3월 이후 하루 하락폭이 가장 컸습니다. 마이크론(-17.46%), AMD(-17.3%), 램리서치(-16.36%), 엔비디아(-9.3%)가 크게 밀렸고 반도체 ETF인 SOXX와 SMH도 각각 12.15%, 11.21% 떨어졌습니다. UBS는 데이터센터 공사가 멈추면 2028년 미국에 새로 늘어날 데이터센터 용량의 약 30%가 위태로울 수 있다고 추정했습니다."
+ },
+ "https://www.fxempire.com/forecasts/article/nasdaq-100-and-sp500-indices-rebound-as-alphabet-pops-and-healthcare-stocks-surge-1563171": {
+  "source": "FXEmpire",
+  "title_ko": "알파벳·헬스케어 강세에 나스닥·S&P 반등",
+  "summary_ko": "11월 들어 S&P 500은 3.5%, 나스닥은 6.1% 떨어졌다가 반등을 시도했고, 12월 10일 금리 인하 확률은 1주일 전 약 44%에서 약 70%로 올랐습니다. 알파벳은 새 AI 모델 Gemini 3를 내놓은 뒤 개장 전 약 3.5% 올랐습니다. 건강보험 보조금 2년 연장 보도에 오스카헬스(약 17.5%), 센틴(8%) 등 보험주도 뛰었습니다."
+ },
+ "https://www.fool.com/investing/2026/08/27/nvidia-delivers-and-the-nasdaq-jumps-13/": {
+  "source": "The Motley Fool",
+  "title_ko": "엔비디아 호실적에 나스닥 1.3% 상승",
+  "summary_ko": "엔비디아는 분기 매출이 1년 전보다 106% 늘어난 962억 달러라고 발표했고, 주가가 8.4% 올라 시가총액이 4,610억 달러 늘었습니다. 이 덕에 장중 나스닥은 1.31% 올랐지만 S&P 500 종목 503개 중 오른 건 156개뿐이라 상승이 일부 종목에 몰렸습니다. 세일즈포스도 실적 발표 뒤 19% 뛰었습니다."
+ },
+ "https://investinglive.com/stocks/icymi-tsmc-profit-jumps-nearly-70-on-ai-demand-but-margin-outlook-weighs-on-shares/": {
+  "source": "investingLive",
+  "title_ko": "TSMC 순이익 70% 급증, 이익률 전망은 부담",
+  "summary_ko": "TSMC의 3분기 순이익은 70% 가까이 늘어난 약 7,630억 대만달러, 매출은 약 470억 달러로 회사 자체 전망의 상단을 넘었습니다. 4분기 매출 전망은 520억~540억 달러, 2026년 성장률은 약 44%로 제시했고, 2026년 설비투자 600억~640억 달러 계획도 그대로 유지했습니다. 다만 매출총이익률이 약 66%로 2분기보다 낮아져 주가에는 부담이 됐습니다."
+ },
+ "https://www.hngn.com/articles/273719/20261105/sp-500-drops-44-ai-stocks-sink-after-democratic-sweep.htm": {
+  "source": "HNGN",
+  "title_ko": "AI주 반등에도 S&P 500 최악의 한 주",
+  "summary_ko": "목요일 S&P 500이 4.4%, 나스닥이 5.5% 떨어졌고 필라델피아 반도체지수는 12.2% 급락했으며, 엔비디아는 9.3% 내려 시가총액이 4,400억 달러 넘게 줄었습니다. 금요일에는 S&P 500이 0.3%, 나스닥이 1.1% 반등했지만, S&P 500은 한 주 동안 2.7% 내려 2025년 4월 이후 가장 나쁜 한 주를 보냈습니다. 10월 일자리가 16만 5천 개로 예상(5만 9천 개)을 크게 넘으면서, 12월 금리 인상 확률은 약 76~77%로 반영됐습니다."
+ },
+ "https://pro.thestreet.com/market-commentary/broadcom-bleeds-semis-sink-will-jobs-numbers-stink": {
+  "source": "TheStreet Pro",
+  "title_ko": "브로드컴 급락에 반도체주 동반 하락",
+  "summary_ko": "브로드컴은 실적이 예상치는 넘었지만 시장이 속으로 기대한 수준에는 못 미쳐 12.6% 떨어지며 반도체주 하락을 이끌었습니다. 필라델피아 반도체지수는 2.15% 내렸고 마이크론(-7.7%), Arm(-4.5%)도 약세였습니다. 시장은 곧 나올 5월 고용 지표(일자리 약 10만 개 안팎, 실업률 4.3% 예상)에 주목했습니다."
+ },
+ "https://www.benefitsandpensionsmonitor.com/investments/alternative-investments/ai-selloff-sinks-chipmakers-after-anthropic-ceo-urges-slower-development/394138": {
+  "source": "Benefits and Pensions Monitor",
+  "title_ko": "앤트로픽 CEO 'AI 속도조절' 발언에 반도체 급락",
+  "summary_ko": "앤트로픽 CEO 다리오 아모데이가 AI 회사들에 능력 개발 속도를 늦추자는 글을 올린 뒤, 9월 14일 필라델피아 반도체지수가 5.2% 떨어졌습니다. 엔비디아(-3%), AMD(-4.5%), 마이크론(-5.4%), ASML(-6%)이 내렸고 S&P 500은 0.5% 하락했습니다. 한국 코스피도 3.3% 내렸고 SK하이닉스는 6.4% 떨어졌습니다."
+ }
+}

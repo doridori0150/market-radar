@@ -78,15 +78,15 @@
   "v": 2
  },
  "KOSPI|2026-11-16": {
-  "title": "美 상무부, AI 칩 수출 규제 강화",
-  "why": "엔비디아 경영 공백에 규제까지 더해져 AI 반도체 수요 우려가 커졌다",
-  "url": "https://newneek.co/@newneek/article/48730",
+  "title": "엔비디아 혼란·AI 투자 자금 우려",
+  "why": "젠슨 황 퇴진 여파에 AI 인프라 기업의 자금 조달 부담이 겹쳐 국내 반도체 대형주가 매도됐다",
+  "url": "https://news.mtn.co.kr/article/2026111616042473944",
   "v": 2
  },
  "KOSPI|2026-11-20": {
-  "title": "앤트로픽 상장일, 美 AI주 급락",
-  "why": "밤사이 미국 3대 지수가 2% 넘게, 반도체지수가 2.4% 빠지자 외국인이 반도체 대형주를 1조 원 넘게 팔았다",
-  "url": "https://m.news.nate.com/view/20261120n15259",
+  "title": "AMD 중국 의혹·美 반도체 급락 여파",
+  "why": "밤사이 앤트로픽 상장에 따른 AI주 매도와 AMD 중국 의혹 보고서로 미국 반도체가 밀리자 외국인이 국내 반도체를 집중 매도했다",
+  "url": "https://www.ddaily.co.kr/page/view/2026112016041528880",
   "v": 2
  },
  "SPX|2025-11-20": {
@@ -168,9 +168,9 @@
   "v": 2
  },
  "SPX|2026-11-19": {
-  "title": "앤트로픽 나스닥 상장 첫날",
-  "why": "새 AI 대어로 자금이 옮겨가고 매파적 FOMC 의사록까지 겹쳐 기존 AI주가 팔렸다",
-  "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-19-dow-sp-500-nasdaq-anthropic-ipo",
+  "title": "앤트로픽 상장 + AMD 중국 의혹 보고서",
+  "why": "새 AI 대어로 자금이 옮겨가고 AMD의 중국 관련 공매도 보고서가 겹쳐 기존 AI주가 팔렸다",
+  "url": "https://fool.com/investing/2026/11/19/why-amd-stock-was-plunging-on-thursday",
   "v": 2
  },
  "NDX|2025-11-24": {
@@ -252,9 +252,9 @@
   "v": 2
  },
  "NDX|2026-11-19": {
-  "title": "앤트로픽 나스닥 상장 첫날",
-  "why": "AI 자금이 신규 상장주로 쏠리며 엔비디아·AMD 등 기존 AI 반도체주가 밀렸다",
-  "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-19-dow-sp-500-nasdaq-anthropic-ipo",
+  "title": "앤트로픽 상장 + AMD 중국 의혹 보고서",
+  "why": "AI 자금이 신규 상장주로 쏠린 데다 AMD가 중국 관련 의혹 보고서로 -7.72% 빠지며 AI 반도체주가 밀렸다",
+  "url": "https://fool.com/investing/2026/11/19/why-amd-stock-was-plunging-on-thursday",
   "v": 2
  },
  "SOX|2025-12-12": {
@@ -348,21 +348,21 @@
   "v": 2
  },
  "SPX|2026-11-20": {
-  "title": "SEC, 엔비디아 회계 조사 중 로이터 보도",
+  "title": "SEC, 엔비디아 회계 조사 보도",
   "why": "시총 1위 엔비디아의 실적 신뢰가 흔들리자 AI·반도체 대형주 전반으로 매도가 번졌다",
-  "url": "https://www.fool.com/investing/2026/11/20/nvidia-stock-plunge-wipes-out-nearly-usd500-billion-in-one-day-as-sec-reportedly-probes-its-accounting/",
+  "url": "https://www.fool.com/coverage/stock-market-today/2026/11/20/stock-market-today-nov-20-nvidia-s-usd2-5-trillion-rout-deepens-as-sec-accounting-probe-adds-to-wall-street-s-ai-sell-off/",
   "v": 2
  },
  "NDX|2026-11-20": {
-  "title": "SEC, 엔비디아 회계 조사 중 로이터 보도",
+  "title": "SEC, 엔비디아 회계 조사 보도",
   "why": "비중 큰 엔비디아가 14% 빠지고 AI 투자 회수 의구심이 겹쳐 기술주가 함께 밀렸다",
-  "url": "https://www.fool.com/investing/2026/11/20/nvidia-stock-plunge-wipes-out-nearly-usd500-billion-in-one-day-as-sec-reportedly-probes-its-accounting/",
+  "url": "https://www.fool.com/coverage/stock-market-today/2026/11/20/stock-market-today-nov-20-nvidia-s-usd2-5-trillion-rout-deepens-as-sec-accounting-probe-adds-to-wall-street-s-ai-sell-off/",
   "v": 2
  },
  "SOX|2026-11-20": {
-  "title": "SEC, 엔비디아 회계 조사 중 로이터 보도",
+  "title": "SEC, 엔비디아 회계 조사 보도",
   "why": "AI칩 대장주의 회계 의혹에 마이크론·AMD·브로드컴까지 두 자릿수 하락이 번졌다",
-  "url": "https://www.fool.com/investing/2026/11/20/nvidia-stock-plunge-wipes-out-nearly-usd500-billion-in-one-day-as-sec-reportedly-probes-its-accounting/",
+  "url": "https://www.fool.com/coverage/stock-market-today/2026/11/20/stock-market-today-nov-20-nvidia-s-usd2-5-trillion-rout-deepens-as-sec-accounting-probe-adds-to-wall-street-s-ai-sell-off/",
   "v": 2
  }
 }
